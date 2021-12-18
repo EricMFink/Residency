@@ -65,11 +65,7 @@ The course will be graded on a pass/fail basis. The minimum requirements for a p
 - Timely submission of all forms, reports, and time logs; and 
 - Professionalism in dealing with your field supervisor, faculty supervisor, clients, and others during the residency.
 
-Due dates are indicated in the "Summary of Assignments & Meetings" and "Weekly Schedule" sections below. If you are unable to meet a due date because of your site supervisor's schedule, you should notify me to receive an extension. Extensions will generally not be granted for other reasons absent extraordinary circumstances. 
-
-Exemplary performance in your field placement, assignments, and group meetings may earn a High Pass. Failure to meet the course standards (including but not limited to 3 or more late submissions of written assignments) may result in a Low Pass or a failing grade, depending on the extent of deficiency.
-
-\newpage 
+Exemplary performance in your field placement, assignments, and group meetings may earn a High Pass. Failure to meet the course standards may result in a Low Pass or a failing grade, depending on the extent of deficiency.
 
 # Summary of Assignments & Meetings
 
@@ -87,8 +83,10 @@ Exemplary performance in your field placement, assignments, and group meetings m
  10   | March 7-11   | Time Log; Final Evaluation; Self-Evaluation; Certificate of Completion
 
 - Required forms and detailed prompts for weekly reports are available on TWEN
-- All forms, reports, and time logs must be posted on TWEN **no later than 11:59 pm on Friday of the week in which they are due**. 
+- All forms, reports, and time logs must be posted on TWEN no later than 11:59 pm on Friday of the week in which they are due.
 - If you encounter problems with TWEN, you may send the assignment to me by email to meet the deadline and then post to TWEN when you are able.
+- If you are unable to meet a due date because of your site supervisor's schedule, you should notify me to receive an extension. 
+- Extensions will generally not be granted for other reasons absent extraordinary circumstances. 
 
 # Weekly Schedule 
 
@@ -99,14 +97,14 @@ Exemplary performance in your field placement, assignments, and group meetings m
 - Read before orientation: 
 	- North Carolina Rules of Professional Conduct ([bit.ly/2TrnYcg](http://bit.ly/2TrnYcg))
 	- North Carolina student practice rule ([bit.ly/2TmaUot](http://bit.ly/2TmaUot))
-	- Neil Hamilton, _Roadmap: The Law Student's Guide to Meaningful Employment_ (Excerpts posted on TWEN)
-	- Marjorie Shultz and Sheldon Zedeck, Traits of Effective Lawyers: Self-Evaluation (Posted on TWEN)
+	- Neil Hamilton, _Roadmap: The Law Student's Guide to Meaningful Employment_
+	- Marjorie Shultz and Sheldon Zedeck, Traits of Effective Lawyers: Self-Evaluation
 - Meet with Residency Program Director, 8:30 am - Noon
 - Meet with Faculty Supervisor, 12:30 - 1:30 pm (Zoom: https://elon.zoom.us/j/4601651458)
 
 #### Assignments
 
-- Memoranda of Understanding 
+- Memorandum of Understanding 
 - Confidentiality Agreement 
 - Draft Learning Goals
 - Time log
