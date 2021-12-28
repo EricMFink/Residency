@@ -32,12 +32,13 @@ title: Schedule & Assignments
 #### Orientation: January 3
 
 - Read before orientation: 
-	- North Carolina Rules of Professional Conduct ([bit.ly/2TrnYcg](http://bit.ly/2TrnYcg))
-	- North Carolina student practice rule ([bit.ly/2TmaUot](http://bit.ly/2TmaUot))
-	- Neil Hamilton, _Roadmap: The Law Student's Guide to Meaningful Employment_ (Excerpts posted on TWEN)
-	- Marjorie Shultz and Sheldon Zedeck, Traits of Effective Lawyers: Self-Evaluation (Posted on TWEN)
+    - North Carolina Rules of Professional Conduct ([bit.ly/2TrnYcg](http://bit.ly/2TrnYcg))
+    - North Carolina student practice rule ([bit.ly/2TmaUot](http://bit.ly/2TmaUot))
+    - Neil Hamilton, _Roadmap: The Law Student's Guide to Meaningful Employment_ (TWEN)
+    - Marjorie Shultz and Sheldon Zedeck, Traits of Effective Lawyers: Self-Evaluation (TWEN)
 - Meet with Residency Program Director, 8:30 am - Noon
-- Meet with Faculty Supervisor, 12:30 - 1:30 pm (Zoom: https://elon.zoom.us/j/4601651458)
+- Meet with Faculty Supervisor, 12:30 - 1:30 pm
+    - Zoom link: [elon.zoom.us/j/4601651458](https://elon.zoom.us/j/4601651458)
 
 #### Assignments
 
@@ -51,7 +52,7 @@ title: Schedule & Assignments
 #### Assignments
 
 - Final Learing Goals
-- Time log 
+- Time log
 - Schedule individual conference with faculty supervisor, to take place during Week 3 (January 17-21): [calendly.com/emfink/](https://calendly.com/emfink/) 
 
 
@@ -64,13 +65,15 @@ title: Schedule & Assignments
 #### Assignments
 
 - Weekly Report 1: Site organization & structure
-- Time log 
+- Time log
 
 ## Week 4 (January 24-28)
 
+
 #### Group Meeting with Faculty Supervisor
 
-- Zoom (https://elon.zoom.us/j/4601651458), day and time to be announced
+- Day and time to be announced
+    - Zoom link:  [elon.zoom.us/j/4601651458](https://elon.zoom.us/j/4601651458)
 
 #### Assignments
 
@@ -82,7 +85,8 @@ title: Schedule & Assignments
 #### Midterm Evaluation 
 
 - Give midterm evaluation form to site supervisor
-- Consult with site supervisor about their availability for conference with faculty supervisor during Week 6 (February 7-11) and schedule the conference for them: [calendly.com/emfink/](https://calendly.com/emfink/)
+- Consult with site supervisor about their availability for conference with faculty supervisor during Week 6 (February 7-11). 
+    - Schedule the conference for them: [calendly.com/emfink/](https://calendly.com/emfink/)
 
 #### Assignments
 
@@ -132,7 +136,8 @@ title: Schedule & Assignments
 
 #### Group Meeting with Faculty Supervisor
 
-- Zoom (https://elon.zoom.us/j/4601651458), day and time to be announced
+- Day and time to be announced
+    - Zoom link:  [elon.zoom.us/j/4601651458](https://elon.zoom.us/j/4601651458)
 
 #### Assignments
 
