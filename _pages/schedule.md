@@ -6,7 +6,7 @@ title: Schedule & Assignments
 ---
 
 
-# Summary of Assignments & Meetings
+## Summary of Assignments & Meetings
 
 Week | End Date    |  Assignments
 :----|:------------|:----------------
@@ -25,9 +25,9 @@ Week | End Date    |  Assignments
 - All forms, reports, and time logs must be posted on TWEN **no later than 11:59 pm on Friday of the week in which they are due**.
 - If you encounter problems with TWEN, you may send the assignment to me by email to meet the deadline and then post to TWEN when you are able.
 
-# Weekly Schedule
+## Weekly Schedule
 
-## Week 1: January 3-7
+### Week 1: January 3-7
 
 #### Orientation: January 3
 
@@ -47,7 +47,7 @@ Week | End Date    |  Assignments
 - Draft Learning Goals
 - Time log
 
-## Week 2: January 11-15
+### Week 2: January 11-15
 
 #### Assignments
 
@@ -56,7 +56,7 @@ Week | End Date    |  Assignments
 - Schedule individual conference with faculty supervisor, to take place during Week 3 (January 17-21): [calendly.com/emfink/](https://calendly.com/emfink/)
 
 
-## Week 3: January 17-21
+### Week 3: January 17-21
 
 #### Individual Conference with Faculty Supervisor
 
@@ -67,7 +67,7 @@ Week | End Date    |  Assignments
 - Weekly Report 1: Site organization & structure
 - Time log
 
-## Week 4: January 24-28
+### Week 4: January 24-28
 
 #### Group Meeting with Faculty Supervisor
 
@@ -79,7 +79,7 @@ Week | End Date    |  Assignments
 - Weekly Report 2: Site supervision
 - Time log
 
-## Week 5: January 31-February 4
+### Week 5: January 31-February 4
 
 #### Midterm Evaluation
 
@@ -92,7 +92,7 @@ Week | End Date    |  Assignments
 - Weekly Report 3: Work to date
 - Time log
 
-## Week 6: February 7-11
+### Week 6: February 7-11
 
 #### Site Supervisor's Conference with Faculty Supervisor
 
@@ -104,7 +104,7 @@ Week | End Date    |  Assignments
 - Time log
 - Site Supervisor's Mid-term evaluation
 
-## Week 7: February 14-18
+### Week 7: February 14-18
 
 #### Professional Development
 
@@ -116,7 +116,7 @@ Week | End Date    |  Assignments
 - Time log
 - Schedule individual conference with faculty supervisor, to take place during Week 8 (February 21-25): [calendly.com/emfink/](https://calendly.com/emfink/)
 
-## Week 8: February 21-25
+### Week 8: February 21-25
 
 #### Individual Conference with Faculty Supervisor
 
@@ -127,7 +127,7 @@ Week | End Date    |  Assignments
 - Weekly Report 6: List of projects and assignments
 - Time log
 
-## Week 9: February 28-March 4
+### Week 9: February 28-March 4
 
 #### Final Evaluation
 
@@ -143,7 +143,7 @@ Week | End Date    |  Assignments
 - Weekly Report 7: Learning milestones and benchmarks
 - Time log
 
-## Week 10: March 7-11
+### Week 10: March 7-11
 
 #### Communication
 
