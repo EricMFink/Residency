@@ -8,46 +8,18 @@ title: Schedule & Assignments
 
 # Summary of Assignments & Meetings
 
-Week   | Dates           |  Assignments
--------|-----------------|-------------------------
- 1     | Jan. 3-7        | Learning Goals (Draft)   
-&nbsp; | &nbsp;          | Memorandum of Understanding  
-&nbsp; | &nbsp;          | Time Log Confidentiality Agreement
-&nbsp; | &nbsp;          | &nbsp;
- 2     | Jan. 10-14      |  Learning Goals (Final)
-&nbsp; | &nbsp;          | Time Log    
-&nbsp; | &nbsp;          | &nbsp;
- 3     | Jan. 17-21      |  Weekly Report 1
-&nbsp; | &nbsp;          |  Time Log
-&nbsp; | &nbsp;          |  1st Individual Conference
-&nbsp;   | &nbsp;        | &nbsp;
- 4     | Jan. 24-28      |  Weekly Report 2
-&nbsp; | &nbsp;          |  Time Log
-&nbsp; | &nbsp;          |  1st Group Meeting
-&nbsp;   | &nbsp;        |  &nbsp;
- 5     | Jan. 31-Feb. 4  |  Weekly Report 3
-&nbsp; | &nbsp;          |  Time Log
-&nbsp;   | &nbsp;        | &nbsp;  
- 6     | Feb. 7-11       |  Weekly Report 4
-&nbsp; | &nbsp;          |  Time Log
-&nbsp; | &nbsp;          |  Site Supervisor's Midterm Evaluation
-&nbsp; | &nbsp;          |  Site Supervisor-Faculty Supervisor Conference
-&nbsp; | &nbsp;          | &nbsp;
- 7     | Feb. 14-18      |  Weekly Report 5
-&nbsp; | &nbsp;          |  Time Log
-&nbsp; | &nbsp;          | &nbsp;  
- 8     | Feb. 21-25      |  Weekly Report 6
-&nbsp; | &nbsp;          |  Time Log
-&nbsp; | &nbsp;          |  2nd Individual Conference
-&nbsp; | &nbsp;          | &nbsp;  
- 9     | Feb. 28-March 4 |  Weekly Report 7
-&nbsp; | &nbsp;          |  Time Log
-&nbsp; | &nbsp;          |  2nd Group Meeting
-&nbsp; | &nbsp;          | &nbsp;  
- 10    | March 7-11      |  Time Log
-&nbsp; | &nbsp;          |  Site Supervisor's Final Evaluation
-&nbsp; | &nbsp;          |  Self-Evaluation
-&nbsp; | &nbsp;          |  Certificate of Completion
+Week | End Date    |  Assignments
+:----|:------------|:----------------
+ 1   | January 7   | Learning Goals (Draft); Memorandum of Understanding; Time Log; Confidentiality Agreement
+ 2   | January 14  |  Learning Goals (Final); Time Log
+ 3   | January 21  |  Weekly Report 1; Time Log; 1st Individual Conference
+ 4   | January 28  |  Weekly Report 2; Time Log; 1st Group Meeting
+ 5   | February 4  |  Weekly Report 3; Time Log
+ 6   | February 11 |  Weekly Report 4; Time Log; Site Supervisor's Midterm Evaluation; Site Supervisor-Faculty Supervisor Conference
+ 7   | February 18 |  Weekly Report 5; Time Log
+ 8   | February 25 |  Weekly Report 6; Time Log; 2nd Individual Conference
+ 9   | March 4     |  Weekly Report 7; Time Log; 2nd Group Meeting
+ 10  | March 11    |  Time Log; Site Supervisor's Final Evaluation; Self-Evaluation; Certificate of Completion
 
 - Required forms and detailed prompts for weekly reports are available on TWEN
 - All forms, reports, and time logs must be posted on TWEN **no later than 11:59 pm on Friday of the week in which they are due**.
