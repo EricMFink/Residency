@@ -13,29 +13,37 @@ Week   | Dates           |  Assignments
  1     | Jan. 3-7        | Learning Goals (Draft)   
 &nbsp; | &nbsp;          | Memorandum of Understanding  
 &nbsp; | &nbsp;          | Time Log Confidentiality Agreement
-&nbsp; | &nbsp;          |    
+&nbsp; | &nbsp;          | &nbsp;
  2     | Jan. 10-14      |  Learning Goals (Final)
 &nbsp; | &nbsp;          | Time Log    
+&nbsp; | &nbsp;          | &nbsp;
  3     | Jan. 17-21      |  Weekly Report 1
 &nbsp; | &nbsp;          |  Time Log
 &nbsp; | &nbsp;          |  1st Individual Conference
+&nbsp;   | &nbsp;        | &nbsp;
  4     | Jan. 24-28      |  Weekly Report 2
 &nbsp; | &nbsp;          |  Time Log
 &nbsp; | &nbsp;          |  1st Group Meeting
+&nbsp;   | &nbsp;        |  &nbsp;
  5     | Jan. 31-Feb. 4  |  Weekly Report 3
 &nbsp; | &nbsp;          |  Time Log
+&nbsp;   | &nbsp;        | &nbsp;  
  6     | Feb. 7-11       |  Weekly Report 4
 &nbsp; | &nbsp;          |  Time Log
 &nbsp; | &nbsp;          |  Site Supervisor's Midterm Evaluation
 &nbsp; | &nbsp;          |  Site Supervisor-Faculty Supervisor Conference
+&nbsp; | &nbsp;          | &nbsp;
  7     | Feb. 14-18      |  Weekly Report 5
 &nbsp; | &nbsp;          |  Time Log
+&nbsp; | &nbsp;          | &nbsp;  
  8     | Feb. 21-25      |  Weekly Report 6
 &nbsp; | &nbsp;          |  Time Log
 &nbsp; | &nbsp;          |  2nd Individual Conference
+&nbsp; | &nbsp;          | &nbsp;  
  9     | Feb. 28-March 4 |  Weekly Report 7
 &nbsp; | &nbsp;          |  Time Log
 &nbsp; | &nbsp;          |  2nd Group Meeting
+&nbsp; | &nbsp;          | &nbsp;  
  10    | March 7-11      |  Time Log
 &nbsp; | &nbsp;          |  Site Supervisor's Final Evaluation
 &nbsp; | &nbsp;          |  Self-Evaluation
