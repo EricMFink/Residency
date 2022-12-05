@@ -4,7 +4,7 @@ baseurl: /Residency # change to match repo name
 title: Residency-in-Practice # change to match course name
 description:  # leave blank for no description
 
-last_updated: 30 December 2021 # leave blank if you don't want to display last updated
+last_updated: 5 December 2022 # leave blank if you don't want to display last updated
 
 author: Eric M. Fink
 position: Associate Professor
@@ -57,3 +57,6 @@ transfer:
 # -----------------------------------------------------------------------------
 jquery_version: "1.12.4"
 anchorjs_version: "3.2.2"
+
+plugins:
+  - jekyll-spaceship
