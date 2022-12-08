@@ -5,153 +5,40 @@ title: Schedule & Assignments
 
 ---
 
-
-## Summary of Assignments & Meetings
-
-Week | End Date    |  Assignments
-:----|:------------|:----------------
- 1   | January 7   | Learning Goals (Draft); Memorandum of Understanding; Time Log; Confidentiality Agreement
- 2   | January 14  |  Learning Goals (Final); Time Log
- 3   | January 21  |  Weekly Report 1; Time Log; 1st Individual Conference
- 4   | January 28  |  Weekly Report 2; Time Log; 1st Group Meeting
- 5   | February 4  |  Weekly Report 3; Time Log
- 6   | February 11 |  Weekly Report 4; Time Log; Site Supervisor's Midterm Evaluation; Site Supervisor-Faculty Supervisor Conference
- 7   | February 18 |  Weekly Report 5; Time Log
- 8   | February 25 |  Weekly Report 6; Time Log; 2nd Individual Conference
- 9   | March 4     |  Weekly Report 7; Time Log; 2nd Group Meeting
- 10  | March 11    |  Time Log; Site Supervisor's Final Evaluation; Self-Evaluation; Certificate of Completion
-
-- Required forms and detailed prompts for weekly reports are available on TWEN
-- All forms, reports, and time logs must be posted on TWEN **no later than 11:59 pm on Friday of the week in which they are due**.
-- If you encounter problems with TWEN, you may send the assignment to me by email to meet the deadline and then post to TWEN when you are able.
-
-## Weekly Schedule
-
-### Week 1: January 3-7
-
-#### Orientation: January 3
-
-- Read before orientation:
-    - North Carolina Rules of Professional Conduct ([bit.ly/2TrnYcg](http://bit.ly/2TrnYcg))
-    - North Carolina student practice rule ([bit.ly/2TmaUot](http://bit.ly/2TmaUot))
-    - Neil Hamilton, _Roadmap: The Law Student's Guide to Meaningful Employment_ (TWEN)
-    - Marjorie Shultz and Sheldon Zedeck, Traits of Effective Lawyers: Self-Evaluation (TWEN)
-- Meet with Residency Program Director, 8:30 am - Noon
-- Meet with Faculty Supervisor, 12:30 - 1:30 pm
-    - Zoom link: [elon.zoom.us/j/4601651458](https://elon.zoom.us/j/4601651458)
-
-#### Assignments
-
-- Memorandum of Understanding
-- Confidentiality Agreement
-- Draft Learning Goals
-- Time log
-
-### Week 2: January 11-15
-
-#### Assignments
-
-- Final Learning Goals
-- Time log
-- Schedule individual conference with faculty supervisor, to take place during Week 3 (January 17-21): [calendly.com/emfink/](https://calendly.com/emfink/)
-
-
-### Week 3: January 17-21
-
-#### Individual Conference with Faculty Supervisor
-
-- As scheduled above
-
-#### Assignments
-
-- Weekly Report 1: Site organization & structure
-- Time log
-
-### Week 4: January 24-28
-
-#### Group Meeting with Faculty Supervisor
-
-- Day and time to be announced
-    - Zoom link:  [elon.zoom.us/j/4601651458](https://elon.zoom.us/j/4601651458)
-
-#### Assignments
-
-- Weekly Report 2: Site supervision
-- Time log
-
-### Week 5: January 31-February 4
-
-#### Midterm Evaluation
-
-- Give midterm evaluation form to site supervisor
-- Consult with site supervisor about their availability for conference with faculty supervisor during Week 6 (February 7-11).
-    - Schedule the conference for them: [calendly.com/emfink/](https://calendly.com/emfink/)
-
-#### Assignments
-
-- Weekly Report 3: Work to date
-- Time log
-
-### Week 6: February 7-11
-
-#### Site Supervisor's Conference with Faculty Supervisor
-
-- As scheduled above
-
-#### Assignments
-
-- Weekly Report 4 Project analysis
-- Time log
-- Site Supervisor's Mid-term evaluation
-
-### Week 7: February 14-18
-
-#### Professional Development
-
-- Attend a one-hour professional development program of your choosing. This may include one unit completed on Procertas. See NC Bar Association website ([ncbar.org](https://ncbar.org)) for CLE options (some are free for student members).
-
-#### Assignments
-
-- Weekly Report 5 Professional development
-- Time log
-- Schedule individual conference with faculty supervisor, to take place during Week 8 (February 21-25): [calendly.com/emfink/](https://calendly.com/emfink/)
-
-### Week 8: February 21-25
-
-#### Individual Conference with Faculty Supervisor
-
-- As scheduled above
-
-#### Assignments
-
-- Weekly Report 6: List of projects and assignments
-- Time log
-
-### Week 9: February 28-March 4
-
-#### Final Evaluation
-
-- Give final evaluation form to site supervisor
-
-#### Group Meeting with Faculty Supervisor
-
-- Day and time to be announced
-    - Zoom link:  [elon.zoom.us/j/4601651458](https://elon.zoom.us/j/4601651458)
-
-#### Assignments
-
-- Weekly Report 7: Learning milestones and benchmarks
-- Time log
-
-### Week 10: March 7-11
-
-#### Communication
-
-- Thank you notes to site supervisor and others you worked with in your residency
-
-#### Assignments
-
-- Time log
-- Site Supervisor's Final Evaluation
-- Student's Self-Evaluation
-- Certificate of Completion (post after all other requirements are completed)
+ **Date** &nbsp; &nbsp; &nbsp; &nbsp;  |  Assignment &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;   |  Description  |
+--|--|--
+ **Week 1** | &nbsp; | &nbsp;
+ DATE   | Orientation | Meet with program director (TIME) <br><br> Meet with faculty supervisor (TIME)
+ &nbsp; | Reading | [NC Rules of Professional Conduct](http://bit.ly/2TrnYcg); [NC student practice rule](http://bit.ly/2TmaUot); Hamilton, _Roadmap_; Shultz & Zedeck, _Traits of Effective Lawyers_ <br><br>
+ &nbsp; | Submit to TWEN | Memorandum of Understanding; Confidentiality Agreement; Draft Learning Goals; Time Log
+ **Week 2** | &nbsp; | &nbsp;
+ &nbsp; | Scheduling | Schedule individual conference for Week 3 ([calendly.com/emfink/](https://calendly.com/emfink/)) 
+ &nbsp; | Submit to TWEN | Final Learning Goals; Time Log
+ **Week 3** | &nbsp; | &nbsp; 
+ &nbsp; | Meeting | Individual conference with faculty supervisor (as scheduled above)
+ &nbsp; | Submit to TWEN | Time Log; Weekly Report 1 
+ **Week 4** | &nbsp; | &nbsp;
+ &nbsp; | Meeting | Practice group meeting (TBA) 
+ &nbsp; | Submit to TWEN | Time Log; Weekly Report 2
+ **Week 5** | &nbsp; | &nbsp;
+ &nbsp; | Midterm Evaluation | Give midterm evaluation form to site supervisor; submit to TWEN when completed <br><br> Schedule site supervisor conference with faculty supervisor for Week 6 ([calendly.com/emfink/](https://calendly.com/emfink/))
+ &nbsp; | Submit to TWEN | Time Log; Weekly Report 3 
+ **Week 6** | &nbsp; | &nbsp;
+ &nbsp; | Conference | Site supervisor conference with faculty supervisor (as scheduled above)
+ &nbsp; | Submit to TWEN | Time Log; Weekly Report 4; Site Supervisor's Midterm Evaluation
+ **Week 7** | &nbsp; | &nbsp;
+ &nbsp; | Professional Development | Attend 1-hour professional development activity[^1]
+ &nbsp; | Scheduling | Schedule individual conference for Week 8 ([calendly.com/emfink/](https://calendly.com/emfink/)) 
+ &nbsp; | Submit to TWEN | Time Log; Weekly Report 5 
+ **Week 8** | &nbsp; | &nbsp;
+ &nbsp; | Meeting | Individual conference with faculty supervisor (as scheduled above)
+ &nbsp; | Submit to TWEN | Time Log; Weekly Report 6 
+ **Week 9** | &nbsp; | &nbsp;
+ &nbsp; | Final Evaluation |  Give final evaluation form to site supervisor; submit to TWEN when completed
+ &nbsp; | Meeting | Practice group meeting (TBA)
+ &nbsp; | Submit to TWEN | Time Log; Weekly Report 7
+ **Week 10** | &nbsp; | &nbsp;
+ &nbsp; | Communication |  Thank-you note to site supervisor
+ &nbsp; | Submit to TWEN | Time Log; Site Supervisor's Final Evaluation; Student Self-Evaluation; Certificate of Completion
+ 
+ [^1]: You may satisfy the Professional Development requirement by attending a CLE program, completing one unit on Procertas, or other activity approved by the faculty supervisor. See the NC Bar Association website ([ncbar.org](https://ncbar.org)) for CLE options (some are free for student members).

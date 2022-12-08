@@ -34,14 +34,14 @@ To receive credit for the Residency, you must complete these course requirements
 - Field placement hours (based on credit hours for which you have enrolled)
 - Reading assignments 
 - Weekly time logs
-- Weekly reports
+- Weekly reports 
 - One hour of professional development
 - Two group meetings with faculty supervisor
 - Two individual conferences with faculty supervisor
 - Mid-term and final evaluations site supervisor
 - Student self-evaluation
 
-_Note:_ If you complete the requisite number of hours early, you may request to end your field placement one week before the end of the term (but no earlier). Your site supervisor and faculty supervisor must both approve this request. 
+If you complete the requisite number of hours early, you may request to end your field placement one week before the end of the term (but no earlier). Your site supervisor and faculty supervisor must both approve this request. 
 
 #### Grading 
 
@@ -52,6 +52,10 @@ The course will be graded on a pass/fail basis. The minimum requirements for a p
 - Timely submission of all forms, reports, and time logs; and 
 - Professionalism in dealing with your field supervisor, faculty supervisor, clients, and others during the residency.
 
-Due dates are indicated in the "Summary of Assignments & Meetings" and "Weekly Schedule" sections below. If you are unable to meet a due date because of your site supervisor's schedule, you should notify me to receive an extension. Extensions will generally not be granted for other reasons absent extraordinary circumstances. 
+Required forms, weekly report prompts, and reading assignments are available on TWEN. 
+
+All forms, reports, and time logs must be submitted to TWEN **by 11:59 pm on Friday of the week in which they are due** (see [Schedule & Assignments](../schedule/)). If you encounter problems with TWEN, you may send the assignment to me by email to meet the deadline and then submit to TWEN when you are able.
+
+If you are unable to meet a due date because of your site supervisor's schedule, you should notify me to receive an extension. Extensions will generally not be granted for other reasons absent extraordinary circumstances. 
 
 Exemplary performance in your field placement, assignments, and group meetings may earn a High Pass. Failure to meet the course standards (including but not limited to 3 or more late submissions of written assignments) may result in a Low Pass or a failing grade, depending on the extent of deficiency.

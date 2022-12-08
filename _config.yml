@@ -4,7 +4,7 @@ baseurl: /Residency # change to match repo name
 title: Residency-in-Practice # change to match course name
 description:  # leave blank for no description
 
-last_updated: 5 December 2022 # leave blank if you don't want to display last updated
+last_updated: 8 December 2022 # leave blank if you don't want to display last updated
 
 author: Eric M. Fink
 position: Associate Professor
@@ -32,12 +32,17 @@ theme: tufte-pandoc-jekyll
 gems:
   - jekyll-pandoc
 
-markdown: Pandoc
-pandoc:
-  extensions:
-    - section-divs
-    - from: 'markdown+tex_math_single_backslash'
-    - filter: 'pandoc-sidenote'
+markdown: kramdown
+
+# -----------------------------------------------------------------------------
+# For Sidenotes
+# markdown: Pandoc
+# pandoc:
+#   extensions:
+#     - section-divs
+#     - from: 'markdown+tex_math_single_backslash'
+#     - filter: 'pandoc-sidenote'
+# -----------------------------------------------------------------------------
 
 markdown_ext: "markdown,mkdown,mkdn,mkd,md"
 permalink: /articles/:title
@@ -65,8 +70,8 @@ jquery_version: "1.12.4"
 anchorjs_version: "3.2.2"
 
 
-plugins:
-  - jekyll-spaceship
+# plugins:
+#  - jekyll-spaceship
 
 # Where things are
 jekyll-spaceship:
