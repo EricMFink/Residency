@@ -8,7 +8,7 @@ title: Schedule & Assignments
  **Date** &nbsp; &nbsp; &nbsp; &nbsp;  | Assignment &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;   |  Description  |
 --|--|--
  **March 27** | **Orientation** | &nbsp;
- &nbsp; | Reading | [NC Rules of Professional Conduct](http://bit.ly/2TrnYcg); [NC student practice rule](http://bit.ly/2TmaUot)[^1]; Hamilton, _Roadmap_; Leadership Skills for Attorney Success; Self-Evaluation: Effective Lawyering Skills
+ &nbsp; | Reading | [NC Rules of Professional Conduct](http://bit.ly/2TrnYcg); [NC student practice rule](http://bit.ly/2TmaUot)[^1] (If your residency placement is outside North Carolina, you should read the Rules of Professional Conduct for the appropriate jurisdiction.); </br>Hamilton, _Roadmap_; </br>Leadership Skills for Attorney Success; </br>Self-Evaluation: Effective Lawyering Skills
   &nbsp; | &nbsp; | Meet with faculty supervisor, 3:30 pm by Zoom ([elon.zoom.us/my/emfink](https://elon.zoom.us/my/emfink))
  **Week 1** | March 27-31 | &nbsp;
  &nbsp; | Report | Wellness in the legal profession
@@ -34,7 +34,7 @@ title: Schedule & Assignments
  &nbsp; | Forms | Time Log; Site Supervisor's Midterm Evaluation
  **Week 7** | May 8-12 | &nbsp;
  &nbsp; | Scheduling | Schedule individual conference with faculty supervisor for Week 8 ([calendly.com/emfink/](https://calendly.com/emfink/)) 
- &nbsp; | Activity | Attend 1-hour professional development activity[^2]
+ &nbsp; | Activity | Attend 1-hour professional development activity (CLE program, one unit on Procertas, or other activity approved by faculty supervisor). See the NC Bar Association website ([ncbar.org](https://ncbar.org)) for CLE options (some are free for students).
  &nbsp; | Report | Professional development
  &nbsp; | Forms | Time Log; Report: Professional development 
  **Week 8** | May 15-19 | &nbsp;
@@ -49,6 +49,3 @@ title: Schedule & Assignments
  &nbsp; | Communication |  Thank-you note to site supervisor
  &nbsp; | Forms | Time Log; Site Supervisor's Final Evaluation; Student evaluation of residency placement; Self-Evaluation: Effective Lawyering Skills (final); Certificate of Completion
  
- [^1]: If your residency placement is outside North Carolina, you should read the Rules of Professional Conduct for the appropriate jurisdiction. 
- 
- [^2]: You may satisfy the Professional Development requirement by attending a CLE program, completing one unit on Procertas, or other activity approved by the faculty supervisor. See the NC Bar Association website ([ncbar.org](https://ncbar.org)) for CLE options (some are free for student members).
