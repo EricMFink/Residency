@@ -21,7 +21,7 @@ output:
 
 # Course Description
 
-### Overview
+## Overview
 
 The Residency-in-Practice course includes both a field experience and a class component. The class component is an integral part of the work for which you earn academic credit. As your faculty supervisor, I will review your writing assignments and meet with you periodically as a group and individually to discuss your field experience and issues related to legal practice. I will also communicate with your site supervisor about your progress in the field placement.
 
@@ -29,18 +29,17 @@ To earn academic credit for work in a law or judicial office, ABA Standards requ
 
 During your residency, you are bound by the attorney disciplinary rules for the jurisdiction of your field placement, and other rules, guidelines, or policies applicable to your particular practice setting. You are expected to resolve any workplace issues and problems with the attorney or others involved. If you cannot resolve the issue yourself, you should discuss it with me. If necessary, we will involve the Residency Program Director. 
 
-### Learning Goals
+## Learning Goals
 
 The Residency course is intended to advance these learning goals:
 
-- Integrating substantive learning with practical experience and assimilate knowledge from the study of law to the practice of law. 
-- Transferring knowledge from study to practice, applying legal doctrines learned in class to a practice setting, and bringing knowledge and skills developed in practice back to the classroom;
-- Deepening knowledge of the legal profession and lawyers' professional responsibilities, and enhancing professional development; and
-- Increasing the ability to learn from experience, through regular feedback from attorneys, self-evaluation, and reflection on the lessons of practice under faculty guidance.
+- Integrate substantive learning with practical experience, assimilate knowledge from the study of law to the practice of law, apply legal doctrines learned in class to a practice setting, and bring knowledge and skills developed in practice back to the classroom;
+- Deepen knowledge of the legal profession and lawyers' professional responsibilities and enhance professional development; 
+- Increase ability to learn from experience, through feedback from attorneys, self-evaluation, and reflection on practice experience under faculty guidance.
 
 Each student will also identify individual goals and develop a plan for attaining these goals in the residency.
 
-### Requirements
+## Requirements
 
 To receive credit for the Residency, you must complete these course requirements: 
 
@@ -61,7 +60,7 @@ If you are unable to meet a due date because of your site supervisor's schedule,
 
 If you complete the requisite number of hours early, you may request to end your field placement one week before the end of the term (but no earlier). Your site supervisor and faculty supervisor must both approve this request. 
 
-### Grading 
+## Grading 
 
 The course will be graded on a pass/fail basis. The minimum requirements for a passing grade are as follows: 
 
@@ -74,11 +73,11 @@ Exemplary performance in your field placement, assignments, and group meetings m
 
 # Schedule & Assignments 
 
-## Orientation
+### Orientation
 
-### March 27
+#### March 27
 
-#### Reading
+##### Reading
 
 - [NC Rules of Professional Conduct](http://bit.ly/2TrnYcg); [NC student practice rules](https://www.emfink.net/Residency/assets/materials/StudentPracticeRules.pdf)
   - If your residency placement is outside North Carolina, you should read the Rules of Professional Conduct for the appropriate jurisdiction.
@@ -86,94 +85,174 @@ Exemplary performance in your field placement, assignments, and group meetings m
 - [Leadership Skills for Attorney Success](https://www.emfink.net/Residency/assets/materials/LeadershipSkillsForAttorneySuccess.pdf) 
 - [Self-Evaluation: Effective Lawyering Skills](https://www.emfink.net/Residency/assets/materials/Self-Evaluation.docx)
 
-#### Practice group meeting with faculty supervisor
+##### Practice group meeting with faculty supervisor
 
-- 3:30 pm by Zoom ([elon.zoom.us/my/emfink](https://elon.zoom.us/my/emfink))
+- 3:30 pm by Zoom ([elon.zoom.us/my/emfink](https://elon.zoom.us/my/emfink)) 
+
+### Week 1 
+
+#### March 27-31 
+
+##### Report 
+
+- Wellness in the legal profession 
+
+##### Forms 
+
+- Memorandum of Understanding
+- Confidentiality Agreement
+- Draft Learning Goals & Plan
+- Time Log
       
 
-## Week 1 
+### Week 2 
 
-### March 27-31 
- 
-- Report: Wellness in the legal profession 
-- Forms: Memorandum of Understanding; Confidentiality Agreement; Draft Learning Goals & Plan; Time Log
+#### April 3-7 
+
+##### Scheduling 
+
+- Schedule individual conference with faculty supervisor for Week 3 ([calendly.com/emfink/](https://calendly.com/emfink/))
+
+##### Forms 
+
+- Final Learning Goals & Plan
+- Time Log
       
 
-## Week 2 
+### Week 3 
 
-### April 3-7 
+#### April 10-14 
 
-- Scheduling: Schedule individual conference with faculty supervisor for Week 3 ([calendly.com/emfink/](https://calendly.com/emfink/))
-- Forms: Final Learning Goals & Plan; Time Log
+##### Meeting 
+
+- Individual conference with faculty supervisor (as previously scheduled) by telephone or Zoom
+
+##### Report 
+
+- Organizational structure
+
+##### Forms 
+
+- Time Log
       
 
-## Week 3 
+### Week 4 
 
-### April 10-14 
+#### April 17-21 
 
-- Meeting: Individual conference with faculty supervisor (as previously scheduled) by telephone or Zoom
-- Report: Organizational structure
-- Forms: Time Log
+##### Report 
+
+- Supervision and feedback
+
+##### Forms 
+
+- Time Log
       
 
-## Week 4 
+### Week 5 
 
-### April 17-21 
+#### April 24-28 
 
-- Report: Supervision and feedback
-- Forms: Time Log
+##### Meeting 
+
+- Practice group meeting (date & time TBA) by Zoom ([elon.zoom.us/my/emfink](https://elon.zoom.us/my/emfink))
+
+##### Scheduling 
+
+- Schedule conference with site supervisor and faculty supervisor for Week 6 ([calendly.com/emfink/](https://calendly.com/emfink/))
+
+##### Report 
+
+- Reflection on work to date
+
+##### Forms 
+
+- Time Log
+- Self-Evaluation: Effective Lawyering Skills (mid-term)
+- Site Supervisor's Midterm Evaluation (give form to site supervisor and post to TWEN when completed)
       
 
-## Week 5 
+### Week 6 
 
-### April 24-28 
+#### May 1-5 
 
-- Meeting: Practice group meeting (date & time TBA) by Zoom ([elon.zoom.us/my/emfink](https://elon.zoom.us/my/emfink))
-- Scheduling: Schedule conference with site supervisor and faculty supervisor for Week 6 ([calendly.com/emfink/](https://calendly.com/emfink/))
-- Report: Reflection on work to date
-- Forms: Time Log; Self-Evaluation: Effective Lawyering Skills (mid-term); Site Supervisor's Midterm Evaluation (give form to site supervisor and post to TWEN when completed)
+##### Meeting 
+
+- Conference with site supervisor and faculty supervisor (date and time as scheduled), by telephone or Zoom
+
+##### Report 
+
+- Project analysis
+
+##### Forms 
+
+- Time Log
       
 
-## Week 6 
+### Week 7 
 
-### May 1-5 
+#### May 8-12 
 
-- Meeting: Conference with site supervisor and faculty supervisor (date and time as scheduled), by telephone or Zoom
-- Report: Project analysis
-- Forms: Time Log; Site Supervisor's Midterm Evaluation
-      
+##### Scheduling 
 
-## Week 7 
-
-### May 8-12 
-
-- Scheduling: Schedule individual conference with faculty supervisor for Week 8 ([calendly.com/emfink/](https://calendly.com/emfink/)) 
+- Schedule individual conference with faculty supervisor for Week 8 ([calendly.com/emfink/](https://calendly.com/emfink/)) 
    Activity  Attend 1-hour professional development activity (CLE program, one unit on Procertas, or other activity approved by faculty supervisor). See the NC Bar Association website ([ncbar.org](https://ncbar.org)) for CLE options (some are free for students).
-- Report: Professional development
-- Forms: Time Log; Report: Professional development 
+
+##### Report 
+
+- Professional development
+
+##### Forms 
+
+- Time Log
       
 
-## Week 8 
+### Week 8 
 
-### May 15-19 
+#### May 15-19 
 
-- Meeting: Individual conference with faculty supervisor (as scheduled above) by telephone or Zoom
-- Report: List of projects and assignments
-- Forms: Time Log
+##### Meeting 
+
+- Individual conference with faculty supervisor (as scheduled above) by telephone or Zoom
+
+##### Report 
+
+- List of projects and assignments
+
+##### Forms 
+
+- Time Log
       
 
-## Week 9 
+### Week 9 
 
-### May 22-26 
+#### May 22-26 
 
-- Meeting: Practice group meeting (date and time TBA) by Zoom ([elon.zoom.us/my/emfink](https://elon.zoom.us/my/emfink))
-- Report: Learning milestones and benchmarks
-- Forms: Time Log; Site Supervisor's Final Evaluation (give form to site supervisor and post to TWEN when completed)
+##### Meeting 
+
+- Practice group meeting (date and time TBA) by Zoom ([elon.zoom.us/my/emfink](https://elon.zoom.us/my/emfink))
+
+##### Report 
+
+- Learning milestones and benchmarks
+
+##### Forms 
+
+- Time Log
+- Site Supervisor's Final Evaluation (give form to site supervisor and post to TWEN when completed)
       
 
-## Week 10 
+### Week 10 
 
-### May 29-June 2 
+#### May 29-June 2 
 
-- Communication: Thank-you note to site supervisor
-- Forms: Time Log; Site Supervisor's Final Evaluation; Student evaluation of residency placement; Self-Evaluation: Effective Lawyering Skills (final); Certificate of Completion
+##### Communication 
+
+- Thank-you note to site supervisor
+
+##### Forms 
+
+- Time Log; Site Supervisor's Final Evaluation; 
+- Student evaluation of residency placement; 
+- Self-Evaluation: Effective Lawyering Skills (final)
+- Certificate of Completion

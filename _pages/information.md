@@ -20,10 +20,9 @@ During your residency, you are bound by the attorney disciplinary rules for the 
 
 The Residency course is intended to advance these learning goals:
 
-- Integrating substantive learning with practical experience and assimilate knowledge from the study of law to the practice of law. 
-- Transferring knowledge from study to practice, applying legal doctrines learned in class to a practice setting, and bringing knowledge and skills developed in practice back to the classroom;
-- Deepening knowledge of the legal profession and lawyers' professional responsibilities, and enhancing professional development; and
-- Increasing the ability to learn from experience, through regular feedback from attorneys, self-evaluation, and reflection on the lessons of practice under faculty guidance.
+- Integrate substantive learning with practical experience, assimilate knowledge from the study of law to the practice of law, apply legal doctrines learned in class to a practice setting, and bring knowledge and skills developed in practice back to the classroom;
+- Deepen knowledge of the legal profession and lawyers' professional responsibilities and enhance professional development; 
+- Increase ability to learn from experience, through feedback from attorneys, self-evaluation, and reflection on practice experience under faculty guidance.
 
 Each student will also identify individual goals and develop a plan for attaining these goals in the residency.
 
