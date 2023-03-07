@@ -8,7 +8,7 @@ title: Information
 
 # Course Description
 
-### Overview
+## Overview
 
 The Residency-in-Practice course includes both a field experience and a class component. The class component is an integral part of the work for which you earn academic credit. As your faculty supervisor, I will review your writing assignments and meet with you periodically as a group and individually to discuss your field experience and issues related to legal practice. I will also communicate with your site supervisor about your progress in the field placement.
 
@@ -16,7 +16,7 @@ To earn academic credit for work in a law or judicial office, ABA Standards requ
 
 During your residency, you are bound by the attorney disciplinary rules for the jurisdiction of your field placement, and other rules, guidelines, or policies applicable to your particular practice setting. You are expected to resolve any workplace issues and problems with the attorney or others involved. If you cannot resolve the issue yourself, you should discuss it with me. If necessary, we will involve the Residency Program Director. 
 
-### Learning Goals
+## Learning Goals
 
 The Residency course is intended to advance these learning goals:
 
@@ -26,7 +26,7 @@ The Residency course is intended to advance these learning goals:
 
 Each student will also identify individual goals and develop a plan for attaining these goals in the residency.
 
-### Requirements
+## Requirements
 
 To receive credit for the Residency, you must complete these course requirements: 
 
@@ -47,7 +47,7 @@ If you are unable to meet a due date because of your site supervisor's schedule,
 
 If you complete the requisite number of hours early, you may request to end your field placement one week before the end of the term (but no earlier). Your site supervisor and faculty supervisor must both approve this request. 
 
-### Grading 
+## Grading 
 
 The course will be graded on a pass/fail basis. The minimum requirements for a passing grade are as follows: 
 
