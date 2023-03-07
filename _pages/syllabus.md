@@ -80,7 +80,7 @@ Exemplary performance in your field placement, assignments, and group meetings m
 
 #### Reading
 
-- [NC Rules of Professional Conduct](http://bit.ly/2TrnYcg); [NC student practice rule](http://bit.ly/2TmaUot) 
+- [NC Rules of Professional Conduct](http://bit.ly/2TrnYcg); [NC student practice rules](https://www.emfink.net/Residency/assets/materials/StudentPracticeRules.pdf)
   - If your residency placement is outside North Carolina, you should read the Rules of Professional Conduct for the appropriate jurisdiction.
 - Neil Hamilton, [_Roadmap_](https://www.emfink.net/Residency/assets/materials/Hamilton-Roadmap.pdf)
 - [Leadership Skills for Attorney Success](https://www.emfink.net/Residency/assets/materials/LeadershipSkillsForAttorneySuccess.pdf) 

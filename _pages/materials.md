@@ -30,7 +30,7 @@ title: Materials
 
 [NC Code of Judicial Conduct](http://bit.ly/3bbnMlK)
 
-[NC Student Practice Rules](http://bit.ly/2TmaUot)
+[NC Student Practice Rules](https://www.emfink.net/Residency/assets/materials/StudentPracticeRules.pdf)
 
 [Neil Hamilton, Roadmap](https://www.emfink.net/Residency/assets/materials/Hamilton-Roadmap.pdf)
 
