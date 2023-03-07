@@ -78,7 +78,7 @@ Exemplary performance in your field placement, assignments, and group meetings m
 --|--|--
  &nbsp; | &nbsp; | &nbsp; 
  **March 27** | **Orientation** | &nbsp;
- &nbsp; | Reading | [NC Rules of Professional Conduct](http://bit.ly/2TrnYcg); [NC student practice rule](http://bit.ly/2TmaUot) (If your residency placement is outside North Carolina, you should read the Rules of Professional Conduct for the appropriate jurisdiction.); <br><br> Hamilton, _Roadmap_; <br><br> Leadership Skills for Attorney Success; <br><br> Self-Evaluation: Effective Lawyering Skills
+ &nbsp; | Reading | [NC Rules of Professional Conduct](http://bit.ly/2TrnYcg); [NC student practice rule](http://bit.ly/2TmaUot) (If your residency placement is outside North Carolina, you should read the Rules of Professional Conduct for the appropriate jurisdiction.); <br><br> Hamilton, _Roadmap_; <br><br> Leadership Skills for Attorney Success; <br><br> Self-Evaluation: Effective Lawyering Skills 
  &nbsp; | &nbsp; | Meet with faculty supervisor, 3:30 pm by Zoom ([elon.zoom.us/my/emfink](https://elon.zoom.us/my/emfink))
  &nbsp; | &nbsp; | &nbsp; 
  **Week 1** | March 27-31 | &nbsp;
@@ -111,9 +111,9 @@ Exemplary performance in your field placement, assignments, and group meetings m
  &nbsp; | &nbsp; | &nbsp; 
  **Week 7** | May 8-12 | &nbsp;
  &nbsp; | Scheduling | Schedule individual conference with faculty supervisor for Week 8 ([calendly.com/emfink/](https://calendly.com/emfink/)) 
- &nbsp; | Activity | Attend 1-hour professional development activity (CLE program, one unit on Procertas, or other activity approved by faculty supervisor). See the NC Bar Association website ([ncbar.org](https://ncbar.org)) for CLE options (some are free for students).
+ &nbsp; | Activity | Attend 1-hour professional development activity (CLE program, one unit on Procertas, or other activity approved by faculty supervisor). See the NC Bar Association website ([ncbar.org](https://ncbar.org)) for CLE options (some are free for students)
  &nbsp; | Report | Professional development
- &nbsp; | Forms | Time Log; Report: Professional development 
+ &nbsp; | Forms | Time Log; Report: Professional development
  &nbsp; | &nbsp; | &nbsp; 
  **Week 8** | May 15-19 | &nbsp;
  &nbsp; | Meeting | Individual conference with faculty supervisor (as scheduled above) by telephone or Zoom
@@ -128,4 +128,3 @@ Exemplary performance in your field placement, assignments, and group meetings m
  **Week 10** | May 29-June 2 | &nbsp;
  &nbsp; | Communication |  Thank-you note to site supervisor
  &nbsp; | Forms | Time Log; Site Supervisor's Final Evaluation; Student evaluation of residency placement; Self-Evaluation: Effective Lawyering Skills (final); Certificate of Completion
-
