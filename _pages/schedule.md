@@ -100,7 +100,7 @@ title: Schedule & Assignments
 ##### Forms 
 
 - Time Log
-- Self-Evaluation: Effective Lawyering Skills (mid-term)
+- Self-Evaluation: Effective Lawyering Skills (Midterm)
 - Site Supervisor's Midterm Evaluation (give form to site supervisor and post to TWEN when completed)
       
 

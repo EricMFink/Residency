@@ -44,21 +44,31 @@ Each student will also identify individual goals and develop a plan for attainin
 To receive credit for the Residency, you must complete these course requirements: 
 
 - Field placement hours (based on credit hours for which you have enrolled)
-- Reading assignments 
-- Weekly reports, time logs, and forms
+- Assigned reading
+- Memorandum of understanding and confidentiality agreement with placement site
+- Weekly reports and time logs
 - One hour of professional development
 - Two group meetings with faculty supervisor
 - Two individual conferences with faculty supervisor
-- Mid-term and final evaluations by site supervisor
-- Student self-evaluations
-
-Required forms, assigned readings, and report prompts are available on the [Materials](../materials/) page of this site and on TWEN. 
-
-All reports, time logs, and forms should be submitted on TWEN by 11:59 pm on Friday of the week in which they are due (see [Schedule & Assignments](../schedule/)). If you encounter problems with TWEN, you may send the assignment to me by email and then submit to TWEN when you are able.
-
-If you are unable to meet a due date because of your site supervisor's schedule, you should notify me to receive an extension. Extensions will generally not be granted for other reasons absent extraordinary circumstances.
+- Midterm conference with site supervisor and faculty supervisor
+- Midterm and final evaluations by site supervisor
+- Student learning goals & plan, self-evaluations, evaluation of placement, and certificate of completion
 
 If you complete the requisite number of hours early, you may request to end your field placement one week before the end of the term (but no earlier). Your site supervisor and faculty supervisor must both approve this request. 
+
+## Forms, Time Log, and Reports
+
+Required forms, a time log template, and report prompts are available on the [Materials](../materials/) page of this site and on TWEN. 
+
+All forms, weekly time logs, and reports should be submitted on TWEN by 11:59 pm on Friday of the week in which they are due (see [Schedule & Assignments](../schedule/)). If you encounter problems with TWEN, you may send the assignment to me by email and then submit it to TWEN when you are able.
+
+If you are unable to meet a due date because of your site supervisor's schedule, you should notify me to receive an extension. Extensions will generally not be granted for other reasons absent compelling circumstances.
+
+## Individual Conferences & Group Meetings 
+
+Each student will have two individual conferences with me, and one conference with their site supervisor and me, during the term. These will be by telephone or Zoom (whichever you/your site supervisor prefer). You will schedule these conferences online ([calendly.com/emfink/](https://calendly.com/emfink/)) during the weeks indicated in the syllabus (see [Schedule & Assignments](../schedule/)). 
+
+All students must also participate in two group meetings during the term. These will be by Zoom ([elon.zoom.us/my/emfink](https://elon.zoom.us/my/emfink)). The week before each group meeting (see [Schedule & Assignments](../schedule/)), I will circulate a poll to determine the date and time.
 
 ## Grading 
 
@@ -168,7 +178,7 @@ Exemplary performance in your field placement, assignments, and group meetings m
 ##### Forms 
 
 - Time Log
-- Self-Evaluation: Effective Lawyering Skills (mid-term)
+- Self-Evaluation: Effective Lawyering Skills (Midterm)
 - Site Supervisor's Midterm Evaluation (give form to site supervisor and post to TWEN when completed)
       
 
