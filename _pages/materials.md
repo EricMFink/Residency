@@ -32,6 +32,6 @@ title: Materials
 
 [NC Student Practice Rules](http://bit.ly/2TmaUot)
 
-[Neil Hamilton, Roadmap](https://www.emfink.net/Residency/assets/materials/Hamilton-Roadmap.docx)
+[Neil Hamilton, Roadmap](https://www.emfink.net/Residency/assets/materials/Hamilton-Roadmap.pdf)
 
 [Leadership Skills for Attorney Success](https://www.emfink.net/Residency/assets/materials/LeadershipSkillsForAttorneySuccess.pdf) 
