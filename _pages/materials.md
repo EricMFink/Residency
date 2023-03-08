@@ -6,8 +6,8 @@ title: Materials
 
 # Forms
 
-- [Memorandum of Understanding](https://www.emfink.net/Residency/assets/materials/MOU.docx)
-- [Confidentiality Agreement](https://www.emfink.net/Residency/assets/materials/ConfidentialityAgreement.docx)
+- [Memorandum of Understanding](https://www.emfink.net/Residency/assets/materials/MOU.pdf) (fillable PDF)
+- [Confidentiality Agreement](https://www.emfink.net/Residency/assets/materials/ConfidentialityAgreement.pdf)
 - [Time Log](https://www.emfink.net/Residency/assets/materials/TimeLog.xlsx)
 - [Reports Prompts & Guide](https://www.emfink.net/Residency/assets/materials/ReportPrompts.pdf)
 - [Self-Evaluation: Effective Lawyering Skills](https://www.emfink.net/Residency/assets/materials/Self-Evaluation.docx)
