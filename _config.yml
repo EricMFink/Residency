@@ -2,22 +2,23 @@
 url: https://www.emfink.net # GitHub Pages site url
 baseurl: /Residency # change to match repo name
 title: Residency # change to match course name
-description:  # leave blank for no description
 
-last_updated: 29 March 2023 # leave blank if you don't want to display last updated
+last_updated: 23 June 2023 # leave blank if you don't want to display last updated
 
-author: Eric M. Fink
-position: Associate Professor
-institution: Elon Law School
-street: 201 North Greene Street
-city: Greensboro
-state: North Carolina
-zip: '27401'
-email: efink@elon.edu
-phone: 336-279-9334
-web: emfink.net/ElonLaw
+author:
+  name: Eric M. Fink
+  positition: Associate Professor
+  affiliation: Elon Law School
+  address: 201 North Greene Street
+  city-state-zip: 'Greensboro, North Carolina 27408'
+  email: efink@elon.edu
+  phone: 336-279-9334
+  web: emfink.net/ElonLaw
 
-
+course:
+  subject: Residency-in-Practice
+  term: Spring 2023
+  repository: /Residency
 
 # -----------------------------------------------------------------------------
 # Jekyll settings
@@ -42,12 +43,12 @@ pandoc:
     - filter: 'pandoc-sidenote'
 
 markdown_ext: "markdown,mkdown,mkdn,mkd,md"
-permalink: /articles/:title
+permalink: /:categories/:year/:month/:day/:title/
 timezone: America/New_York
 excerpt_separator: <!--more-->  # you can specify your own separator, of course.
 include: ['_pages']
-exclude: ['Gemfile.lock']
-keep_files: []
+exclude: ['Gemfile.lock', admin, .admin]
+keep_files: [.admin]
 post:
   template: _post.txt
   extension: md
@@ -66,7 +67,6 @@ transfer:
 jquery_version: "1.12.4"
 anchorjs_version: "3.2.2"
 
-
 plugins:
   - jekyll-spaceship
 
@@ -75,38 +75,11 @@ jekyll-spaceship:
   # default enabled processors
   processors:
     - table-processor
-    - plantuml-processor
     - mermaid-processor
     - polyfill-processor
     - media-processor
     - emoji-processor
     - element-processor
-  mathjax-processor:
-    src:
-      - https://polyfill.io/v3/polyfill.min.js?features=es6
-      - https://cdn.jsdelivr.net/npm/mathjax@3/es5/tex-mml-chtml.js
-    config:
-      tex:
-        inlineMath:
-          - ['$$','$$']
-          - ['\(','\)']
-        displayMath:
-          - ['$$$','$$$']
-          - ['\[','\]']
-      svg:
-        fontCache: 'global'
-    optimize: # optimization on building stage to check and add mathjax scripts
-      enabled: true # value `false` for adding to all pages
-      include: []   # include patterns for math expressions checking (regexp)
-      exclude: []   # exclude patterns for math expressions checking (regexp)
-  plantuml-processor:
-    mode: default  # mode value 'pre-fetch' for fetching image at building stage
-    css:
-      class: plantuml
-    syntax:
-      code: 'plantuml!'
-      custom: ['@startuml', '@enduml']
-    src: http://www.plantuml.com/plantuml/svg/
   mermaid-processor:
     mode: default  # mode value 'pre-fetch' for fetching image at building stage
     css:
