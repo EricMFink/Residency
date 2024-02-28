@@ -5,7 +5,7 @@ title: Syllabus
 
 affiliation: Elon Law School
 course: Residency
-term: Spring 2023
+term: Spring 2024
 
 author: Eric M. Fink
 email: efink@elon.edu
