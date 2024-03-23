@@ -53,7 +53,7 @@ To receive credit for the Residency, you must complete these course requirements
 
 [^1]: If you complete the requisite number of hours early, you may request to end your field placement one week before the end of the term (but no earlier). Your site supervisor and faculty supervisor must both approve this request. 
 
-[^2]: All required reading, forms, and report prompts are posted on TWEN. 
+[^2]: Report prompts, time log, and other required forms are posted on TWEN. 
 
 Unless specifically authorized by the faculty or site supervisor, you may not use generative AI services in any work required for this course.
 
@@ -88,8 +88,8 @@ The Law School [honor code](https://www.elon.edu/e/law/student-experience/honor-
 
 Assignments: 
 
-- Reading: NC Rules of Professional Conduct; Neil Hamilton, _Roadmap_; ABA Standards 302-303; Leadership Skills for Attorney Success
-- Self-Evaluation: Effective Lawyering Skills
+- Reading: [NC Rules of Professional Conduct](https://www.emfink.net/Residency/assets/materials/NCRPC.pdf); [NC Student Practice Rules](https://www.emfink.net/Residency/assets/materials/StudentPracticeRules.pdf); [Neil Hamilton, _Roadmap_](https://www.emfink.net/Residency/assets/materials/ABA Standards.pdf); [ABA Standards 302-303](https://www.emfink.net/Residency/assets/materials/ABAstandards.pdf); [Leadership Skills for Attorney Success](https://www.emfink.net/Residency/assets/materials/LeadershipSkillsForAttorneySuccess.pdf) 
+- [Self-Evaluation: Effective Lawyering Skills](https://www.emfink.net/Residency/assets/materials/Self-Evaluation.docx)
 
 Practice group meeting with faculty supervisor ([elon.zoom.us/my/emfink](https://elon.zoom.us/my/emfink))
 

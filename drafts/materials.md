@@ -4,7 +4,7 @@ permalink: /materials/
 title: Materials
 ---
 
-# Forms
+## Forms
 
 - [Memorandum of Understanding](https://www.emfink.net/Residency/assets/materials/MOU.pdf) (fillable PDF)
 - [Confidentiality Agreement](https://www.emfink.net/Residency/assets/materials/ConfidentialityAgreement.pdf)
@@ -16,10 +16,10 @@ title: Materials
 - [Completion Checklist](https://www.emfink.net/Residency/assets/materials/CompletionChecklist.pdf)
 - [Certificate of Completion](https://www.emfink.net/Residency/assets/materials/CertificateOfCompletion.docx)
 
-# Reading 
+## Reading 
 
-- [NC Rules of Professional Conduct](http://bit.ly/2TrnYcg) 
-- [NC Code of Judicial Conduct](http://bit.ly/3bbnMlK)
+- [NC Rules of Professional Conduct](https://www.emfink.net/Residency/assets/materials/NCRPC.pdf)
 - [NC Student Practice Rules](https://www.emfink.net/Residency/assets/materials/StudentPracticeRules.pdf)
-- [Neil Hamilton, Roadmap](https://www.emfink.net/Residency/assets/materials/Hamilton-Roadmap.pdf)
+- [ABA Standards](https://www.emfink.net/Residency/assets/materials/ABAstandards.pdf)
+- [Neil Hamilton, Roadmap](https://www.emfink.net/Residency/assets/materials/ABA Standards.pdf)
 - [Leadership Skills for Attorney Success](https://www.emfink.net/Residency/assets/materials/LeadershipSkillsForAttorneySuccess.pdf) 
