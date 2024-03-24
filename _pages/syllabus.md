@@ -147,9 +147,9 @@ Assignments:
 Assignments: 
 
 - Schedule conference with site supervisor and faculty supervisor for Week 6 ([calendly.com/emfink/](https://calendly.com/emfink/))
-- Report: Reflection on work to date
-- Self-Evaluation: Effective Lawyering Skills (Midterm)
-- Site Supervisor's Midterm Evaluation (give form to site supervisor and post to TWEN when completed)
+- Report: Midterm reflection on work & goals
+- Self-Evaluation of Effective Lawyering Skills (Midterm)
+- Site Supervisor's Midterm Evaluation (give form to supervisor and submit to TWEN when completed)
 - Time Log
 
 ### Week 6 
@@ -182,7 +182,7 @@ Individual conference with faculty supervisor (as scheduled above) by telephone 
 
 Assignments: 
 
-- Report: List of projects and assignments
+- Report: Projects and assignments
 - Time Log
       
 ### Week 9 
@@ -199,13 +199,19 @@ Assignments:
 
 ### Week 10 
 
-#### May 27-June 31
+#### May 27-May 31
 
 Assignments: 
 
 - Time Log
+
+### Final Assignments 
+
+#### June 3-7
+
+- Time Log (if applicable)
 - Thank-you note to site supervisor
 - Site Supervisor's Final Evaluation
 - Student evaluation of residency placement
-- Self-Evaluation: Effective Lawyering Skills (final)
+- Self-Evaluation of Effective Lawyering Skills (Final)
 - Certificate of Completion
