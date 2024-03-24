@@ -88,7 +88,7 @@ The Law School [honor code](https://www.elon.edu/e/law/student-experience/honor-
 
 Assignments: 
 
-- Reading: [NC Rules of Professional Conduct](https://www.emfink.net/Residency/assets/materials/NCRPC.pdf); [NC Student Practice Rules](https://www.emfink.net/Residency/assets/materials/StudentPracticeRules.pdf); [Neil Hamilton, _Roadmap_](https://www.emfink.net/Residency/assets/materials/ABA Standards.pdf); [ABA Standards 302-303](https://www.emfink.net/Residency/assets/materials/ABAstandards.pdf); [Leadership Skills for Attorney Success](https://www.emfink.net/Residency/assets/materials/LeadershipSkillsForAttorneySuccess.pdf) 
+- Reading: [NC Rules of Professional Conduct](https://www.emfink.net/Residency/assets/materials/NCRPC.pdf); [NC Student Practice Rules](https://www.emfink.net/Residency/assets/materials/StudentPracticeRules.pdf); [Neil Hamilton, _Roadmap_](https://www.emfink.net/Residency/assets/materials/HamiltonRoadmap.pdf); [ABA Standards 302-303](https://www.emfink.net/Residency/assets/materials/ABAstandards.pdf); [Leadership Skills for Attorney Success](https://www.emfink.net/Residency/assets/materials/LeadershipSkillsForAttorneySuccess.pdf) 
 - [Self-Evaluation: Effective Lawyering Skills](https://www.emfink.net/Residency/assets/materials/Self-Evaluation.docx)
 
 Practice group meeting with faculty supervisor ([elon.zoom.us/my/emfink](https://elon.zoom.us/my/emfink))
