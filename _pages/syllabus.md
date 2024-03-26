@@ -45,21 +45,19 @@ Each student will also identify individual goals and develop a plan for attainin
 
 To receive credit for the Residency, you must complete these course requirements:
 
-- Field placement hours[^1]
-- Assigned reading, reports, time logs, and forms (as specified in the Syllabus)[^2]
+- Field placement hours
+- Assigned reading, reports, time logs, and forms (as specified in the Syllabus)
 - One hour of professional development
 - Individual conferences and group meetings with faculty supervisor
 - Midterm conference with site supervisor and faculty supervisor
 
-[^1]: If you complete the requisite number of hours early, you may request to end your field placement one week before the end of the term (but no earlier). Your site supervisor and faculty supervisor must both approve this request. 
+If you complete the requisite number of hours early, you may request to end your field placement one week before the end of the term (but no earlier). Your site supervisor and faculty supervisor must both approve this request. 
 
-[^2]: Report prompts, time log, and other required forms are posted on TWEN. 
-
-Unless specifically authorized by the faculty or site supervisor, you may not use generative AI services in any work required for this course.
-
-All forms, weekly time logs, and reports should be submitted on TWEN by 11:59 pm on Friday of the week in which they are due (see _Schedule & Assignments_ below). If you encounter problems with TWEN, you may send the assignment to me by email and then submit it to TWEN when you are able.
+Report prompts, time log, and other required forms are posted on TWEN. All forms, weekly time logs, and reports should be submitted on TWEN by 11:59 pm on Friday of the week in which they are due (see _Schedule & Assignments_ below). If you encounter problems with TWEN, you may send the assignment to me by email and then submit it to TWEN when you are able.
 
 If you are unable to meet a due date because of your site supervisor's schedule, you should notify me to receive an extension. Extensions will generally not be granted for other reasons absent compelling circumstances.
+
+Unless specifically authorized by the faculty or site supervisor, you may not use generative AI services in any work required for this course.
 
 ## Grading 
 
