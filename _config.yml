@@ -30,8 +30,6 @@ course:
 host: localhost
 port: 4000
 
-remote_theme: EricMFink/akademicky
-
 gems:
   - jekyll-pandoc
 
