@@ -5,7 +5,7 @@ title: Syllabus
 
 affiliation: Elon Law School
 course: Residency
-term: Spring 2024
+term: Spring 2025
 
 author: Eric M. Fink
 email: efink@elon.edu
@@ -19,9 +19,9 @@ output:
 
 ---
 
-# Description
+## Description
 
-## Overview
+### Overview
 
 The Residency program includes both a field experience and a class component. The class component is an integral part of the work for which you earn academic credit. As your faculty supervisor, I will review your weekly assignments and meet with you periodically as a group and individually to discuss your field experience. I will also communicate with your site supervisor about your progress.
 
@@ -29,7 +29,7 @@ To earn academic credit for work in a law or judicial office, ABA Standards requ
 
 During your residency, you are bound by the professional conduct rules and other standards governing lawyers in your jurisdiction and practice setting. You are expected to resolve any workplace problems with the attorney or others involved. If you cannot resolve the issue yourself, you should discuss it with me. If necessary, we will involve the Residency Program Director. 
 
-## Learning Goals
+### Learning Goals
 
 The Residency course is intended to advance these learning goals:
 
@@ -39,9 +39,9 @@ The Residency course is intended to advance these learning goals:
 
 Each student will also identify individual goals and develop a plan for attaining these goals in the residency.
 
-# Policies
+## Policies
 
-## Requirements
+### Requirements
 
 To receive credit for the Residency, you must complete these course requirements:
 
@@ -59,7 +59,7 @@ If you are unable to meet a due date because of your site supervisor's schedule,
 
 Unless specifically authorized by the faculty or site supervisor, you may not use generative AI services in any work required for this course.
 
-## Grading 
+### Grading 
 
 The course will be graded on a pass/fail basis, based on these standards: 
 
@@ -70,19 +70,17 @@ The course will be graded on a pass/fail basis, based on these standards:
 
 Exemplary performance in your field placement, assignments, and group meetings may earn a High Pass. Failure to meet these standards may result in a Low Pass or a failing grade.
 
-## Disability Accommodations
+### Disability Accommodations
 
-For disability accommodation requests, contact [Tammy Horn](https://www.elon.edu/u/law/directory/profile/?user=thorn), Director of Academic and Administrative Services.
+For disability accommodation requests, contact the [Elon Disability Services Office](https://www.elon.edu/u/law/students/student-resources/disability-services/).
 
-## Honor Code
+### Honor Code
 
 The Law School [honor code](https://www.elon.edu/e/law/student-experience/honor-code.html) applies to all activities related to your law school study, including conduct during class and examinations. 
 
-# Schedule & Assignments 
+## Schedule & Assignments 
 
-### Orientation
-
-#### March 25
+### Orientation (DATE)
 
 Assignments: 
 
@@ -91,9 +89,7 @@ Assignments:
 
 Practice group meeting with faculty supervisor ([elon.zoom.us/my/emfink](https://elon.zoom.us/my/emfink))
 
-### Week 1 
-
-#### March 25-29 
+### Week 1 (DATES)
 
 Assignments: 
 
@@ -103,20 +99,15 @@ Assignments:
 - Draft Learning Goals & Plan
 - Time Log
 
-### Week 2 
-
-#### April 1-5
+### Week 2 (DATES)
 
 Assignments: 
 
 - Schedule individual conference with faculty supervisor for Week 3 ([calendly.com/emfink/](https://calendly.com/emfink/))
 - Final Learning Goals & Plan
 - Time Log
-      
 
-### Week 3 
-
-#### April 8-12
+### Week 3 (DATES)
 
 Individual conference with faculty supervisor (as previously scheduled) by telephone or Zoom
 
@@ -124,21 +115,15 @@ Assignments:
 
 - Report: Organizational structure
 - Time Log
-      
 
-### Week 4 
-
-#### April 15-19
+### Week 4 (DATES)
 
 Assignments:  
 
 - Report: Supervision and feedback
 - Time Log
-      
 
-### Week 5 
-
-#### April 22-26
+### Week 5 (DATES)
 
 - Practice group meeting (date & time TBA)
 
@@ -150,9 +135,7 @@ Assignments:
 - Site Supervisor's Midterm Evaluation (give form to supervisor and submit to TWEN when completed)
 - Time Log
 
-### Week 6 
-
-#### April 29-May 3 
+### Week 6 (DATES)
 
 Conference with site supervisor and faculty supervisor (date and time as scheduled), by telephone or Zoom
 
@@ -161,9 +144,7 @@ Assignments:
 - Report: Project analysis
 - Time Log    
 
-### Week 7 
-
-#### May 6-10
+### Week 7 (DATES)
 
 Assignments:  
 
@@ -172,9 +153,7 @@ Assignments:
 - Report: Professional development
 - Time Log
 
-### Week 8 
-
-#### May 13-17
+### Week 8 (DATES)
 
 Individual conference with faculty supervisor (as scheduled above) by telephone or Zoom
 
@@ -183,9 +162,7 @@ Assignments:
 - Report: Projects and assignments
 - Time Log
       
-### Week 9 
-
-#### May 20-24
+### Week 9 (DATES)
 
 Practice group meeting (date and time TBA) by Zoom ([elon.zoom.us/my/emfink](https://elon.zoom.us/my/emfink))
 
@@ -195,17 +172,13 @@ Assignments:
 - Site Supervisor's Final Evaluation (give form to site supervisor and post to TWEN when completed)
 - Time Log
 
-### Week 10 
-
-#### May 27-May 31
+### Week 10 (DATES)
 
 Assignments: 
 
 - Time Log
 
-### Final Assignments 
-
-#### June 3-7
+### Final Assignments (DATES)
 
 - Time Log (if applicable)
 - Thank-you note to site supervisor
