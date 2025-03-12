@@ -53,7 +53,7 @@ To receive credit for the Residency, you must complete these course requirements
 
 If you complete the requisite number of hours early, you may request to end your field placement one week before the end of the term (but no earlier). Your site supervisor and faculty supervisor must both approve this request. 
 
-Report prompts, time log, and other required forms are posted on TWEN. All forms, weekly time logs, and reports should be submitted on TWEN by 11:59 pm on Friday of the week in which they are due (see _Schedule & Assignments_ below). If you encounter problems with TWEN, you may send the assignment to me by email and then submit it to TWEN when you are able.
+Report prompts, time log, and other required forms are posted on Moodle. All forms, weekly time logs, and reports should be submitted on Moodle by 11:59 pm on Friday of the week in which they are due (see _Schedule & Assignments_ below). If you encounter problems with Moodle, you may send the assignment to me by email and then submit it to Moodle when you are able.
 
 If you are unable to meet a due date because of your site supervisor's schedule, you should notify me to receive an extension. Extensions will generally not be granted for other reasons absent compelling circumstances.
 
