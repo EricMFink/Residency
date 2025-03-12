@@ -27,8 +27,6 @@ output:
 
 The Residency program includes both a field experience and a class component. The class component is an integral part of the work for which you earn academic credit. As your faculty supervisor, I will review your weekly assignments and meet with you periodically as a group and individually to discuss your field experience. I will also communicate with your site supervisor about your progress.
 
-To earn academic credit for work in a law or judicial office, ABA Standards require that you participate in substantial lawyering experiences, receive feedback from your site and faculty supervisors, reflect on your experiences throughout the placement, and engage in self-assessment. The Residency course is designed to meet these requirements. 
-
 During your residency, you are bound by the professional conduct rules and other standards governing lawyers in your jurisdiction and practice setting. You are expected to resolve any workplace problems with the attorney or others involved. If you cannot resolve the issue yourself, you should discuss it with me. If necessary, we will involve the Residency Program Director. 
 
 ### Learning Goals
