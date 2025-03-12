@@ -51,13 +51,13 @@ To receive credit for the Residency, you must complete these course requirements
 - Individual conferences and group meetings with faculty supervisor
 - Midterm conference with site supervisor and faculty supervisor
 
-The following items count toward the required hours (315/credits; 360/8 credits): 
+The following items count toward the required hours (315/7 credits; 360/8 credits): 
 
- <strong>Activity</strong> | <strong>Hours</strong> | <strong>Frequency</strong> | <strong>Total</strong>
+ Activity | Hours | Frequency | Total
 ---|---|--- | ---
-Orientation | 8.0 | 1 | 8.0
-Group Meetings | 1.5 | 2 | 3.0
-Individual Conferences | 0.5 | 2 | 1.5
+Orientation | 8.0 | 1x | 8.0
+Group Meetings | 1.5 | 2x | 3.0
+Individual Conferences | 0.5 | 2x | 1.5
 Preparation of Time Logs & Reports | 1.0 | weekly | 10.0
 Wellness Activity | 1.0 | weekly | 10.0
 Residency Placement | 28.1 (7 credits); 32.6 (8 credits) | weekly | 281.0 (7 credits); 326.0 (8 credits)
