@@ -53,7 +53,7 @@ To receive credit for the Residency, you must complete these course requirements
 
 If you complete the requisite number of hours early, you may request to end your field placement one week before the end of the term (but no earlier). Your site supervisor and faculty supervisor must both approve this request. 
 
-Report prompts, time log, and other required forms are posted on [Moodle](https://moodle.elon.edu). All forms, weekly time logs, and reports should be submitted on Moodle by 11:59 pm on Friday of the week in which they are due (see _Schedule & Assignments_ below). If you encounter problems with Moodle, you may send the assignment to me by email and then submit it to Moodle when you are able.
+Report prompts, time log, and other required forms are posted on [Moodle](https://moodle.elon.edu/course/view.php?id=73196). All forms, weekly time logs, and reports should be submitted on Moodle by 11:59 pm on Friday of the week in which they are due (see _Schedule & Assignments_ below). If you encounter problems with Moodle, you may send the assignment to me by email and then submit it to Moodle when you are able.
 
 If you are unable to meet a due date because of your site supervisor's schedule, you should notify me to receive an extension. Extensions will generally not be granted for other reasons absent compelling circumstances.
 
@@ -84,7 +84,7 @@ The Law School [honor code](https://www.elon.edu/e/law/student-experience/honor-
 
 #### Assignments
 
-All material is available on the Residency Bootcamp Moodle page. 
+All material is available on the [Residency Bootcamp Moodle page](https://moodle.elon.edu/course/view.php?id=73525). 
 
 - NC Rules of Professional Conduct
 - Neil Hamilton, _Roadmap_
