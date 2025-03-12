@@ -53,7 +53,7 @@ To receive credit for the Residency, you must complete these course requirements
 
 If you complete the requisite number of hours early, you may request to end your field placement one week before the end of the term (but no earlier). Your site supervisor and faculty supervisor must both approve this request. 
 
-Report prompts, time log, and other required forms are posted on Moodle. All forms, weekly time logs, and reports should be submitted on Moodle by 11:59 pm on Friday of the week in which they are due (see _Schedule & Assignments_ below). If you encounter problems with Moodle, you may send the assignment to me by email and then submit it to Moodle when you are able.
+Report prompts, time log, and other required forms are posted on [Moodle](https://moodle.elon.edu). All forms, weekly time logs, and reports should be submitted on Moodle by 11:59 pm on Friday of the week in which they are due (see _Schedule & Assignments_ below). If you encounter problems with Moodle, you may send the assignment to me by email and then submit it to Moodle when you are able.
 
 If you are unable to meet a due date because of your site supervisor's schedule, you should notify me to receive an extension. Extensions will generally not be granted for other reasons absent compelling circumstances.
 
@@ -82,16 +82,20 @@ The Law School [honor code](https://www.elon.edu/e/law/student-experience/honor-
 
 ### Orientation (DATE)
 
-Assignments: 
+#### Assignments
 
-- Reading: [NC Rules of Professional Conduct](https://www.emfink.net/Residency/assets/materials/NCRPC.pdf); [NC Student Practice Rules](https://www.emfink.net/Residency/assets/materials/StudentPracticeRules.pdf); [Neil Hamilton, _Roadmap_](https://www.emfink.net/Residency/assets/materials/HamiltonRoadmap.pdf); [ABA Standards 302-303](https://www.emfink.net/Residency/assets/materials/ABAstandards.pdf); [Leadership Skills for Attorney Success](https://www.emfink.net/Residency/assets/materials/LeadershipSkillsForAttorneySuccess.pdf) 
-- [Self-Evaluation: Effective Lawyering Skills](https://www.emfink.net/Residency/assets/materials/Self-Evaluation.docx)
+All material is available on the Residency Bootcamp Moodle page. 
 
-Practice group meeting with faculty supervisor ([elon.zoom.us/my/emfink](https://elon.zoom.us/my/emfink))
+- NC Rules of Professional Conduct
+- Neil Hamilton, _Roadmap_](https://www.emfink.net/Residency/assets/materials/HamiltonRoadmap.pdf); [ABA Standards 302-303](https://www.emfink.net/Residency/assets/materials/ABAstandards.pdf); [
+- Five Habits of Cross-Cultural Competence
+- Self-Evaluation of Effective Lawyering Skills
+
+TIME: Practice group meeting with faculty supervisor ([elon.zoom.us/my/emfink](https://elon.zoom.us/my/emfink))
 
 ### Week 1 (DATES)
 
-Assignments: 
+#### Assignments 
 
 - Report: Wellness in the legal profession 
 - Memorandum of Understanding
@@ -101,7 +105,7 @@ Assignments:
 
 ### Week 2 (DATES)
 
-Assignments: 
+#### Assignments 
 
 - Schedule individual conference with faculty supervisor for Week 3 ([calendly.com/emfink/](https://calendly.com/emfink/))
 - Final Learning Goals & Plan
@@ -111,14 +115,14 @@ Assignments:
 
 Individual conference with faculty supervisor (as previously scheduled) by telephone or Zoom
 
-Assignments: 
+#### Assignments 
 
 - Report: Organizational structure
 - Time Log
 
 ### Week 4 (DATES)
 
-Assignments:  
+#### Assignments  
 
 - Report: Supervision and feedback
 - Time Log
@@ -127,7 +131,7 @@ Assignments:
 
 - Practice group meeting (date & time TBA)
 
-Assignments: 
+#### Assignments 
 
 - Schedule conference with site supervisor and faculty supervisor for Week 6 ([calendly.com/emfink/](https://calendly.com/emfink/))
 - Report: Midterm reflection on work & goals
@@ -139,14 +143,14 @@ Assignments:
 
 Conference with site supervisor and faculty supervisor (date and time as scheduled), by telephone or Zoom
 
-Assignments: 
+#### Assignments 
 
 - Report: Project analysis
 - Time Log    
 
 ### Week 7 (DATES)
 
-Assignments:  
+#### Assignments  
 
 - Schedule individual conference with faculty supervisor for Week 8 ([calendly.com/emfink/](https://calendly.com/emfink/)) s
 - Attend 1-hour professional development activity (CLE program, one unit on Procertas, or other activity approved by faculty supervisor). See the NC Bar Association website ([ncbar.org](https://ncbar.org)) for CLE options (some are free for students).
@@ -157,7 +161,7 @@ Assignments:
 
 Individual conference with faculty supervisor (as scheduled above) by telephone or Zoom
 
-Assignments: 
+#### Assignments 
 
 - Report: Projects and assignments
 - Time Log
@@ -166,7 +170,7 @@ Assignments:
 
 Practice group meeting (date and time TBA) by Zoom ([elon.zoom.us/my/emfink](https://elon.zoom.us/my/emfink))
 
-Assignments: 
+#### Assignments 
 
 - Report: Learning milestones and benchmarks
 - Site Supervisor's Final Evaluation (give form to site supervisor and post to TWEN when completed)
@@ -174,7 +178,7 @@ Assignments:
 
 ### Week 10 (DATES)
 
-Assignments: 
+#### Assignments 
 
 - Time Log
 
