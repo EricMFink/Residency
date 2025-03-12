@@ -87,7 +87,8 @@ The Law School [honor code](https://www.elon.edu/e/law/student-experience/honor-
 All material is available on the Residency Bootcamp Moodle page. 
 
 - NC Rules of Professional Conduct
-- Neil Hamilton, _Roadmap_](https://www.emfink.net/Residency/assets/materials/HamiltonRoadmap.pdf); [ABA Standards 302-303](https://www.emfink.net/Residency/assets/materials/ABAstandards.pdf); [
+- Neil Hamilton, _Roadmap_
+- ABA Standards 302-303
 - Five Habits of Cross-Cultural Competence
 - Self-Evaluation of Effective Lawyering Skills
 
