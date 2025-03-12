@@ -11,10 +11,12 @@ author: Eric M. Fink
 email: efink@elon.edu
 phone: 336-279-9334
 
+syllabus: true
+
 output:
   pdf_document:
     latex_engine: xelatex
-    template: syllabus.tex
+    template: master.tex
     path: /assets/pdf/syllabus.pdf
 
 ---
