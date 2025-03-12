@@ -64,7 +64,7 @@ Residency Placement | 28.1 (7 credits); 32.6 (8 credits) | weekly | 281.0 (7 cre
 
 If you complete the requisite number of hours early, you may request to end your field placement one week before the end of the term (but no earlier). Your site supervisor and faculty supervisor must both approve this request. 
 
-Report prompts, time log, and other required forms and materials are posted on [Moodle](https://moodle.elon.edu/course/view.php?id=73196). All forms, weekly time logs, and reports should be submitted on Moodle by 11:59 pm on Friday of the week in which they are due (see _Schedule & Assignments_ below). If you encounter problems with Moodle, you may send the assignment to me by email and then submit it to Moodle when you are able.
+Report prompts, time log, and other required forms and materials are posted on [Moodle](https://moodle.elon.edu/course/view.php?id=73196). Weekly time logs and reports should be submitted on Moodle by 11:59 pm on Sunday (see _Schedule & Assignments_ below). If you encounter problems with Moodle, you may send the assignment to me by email and then submit it to Moodle when you are able.
 
 If you are unable to meet a due date because of your site supervisor's schedule, you should notify me to receive an extension. Extensions will generally not be granted for other reasons absent compelling circumstances.
 
@@ -118,7 +118,7 @@ Time & Room TBA
 
 3:00 pm, Room TBA
 
-### Week 1 (DATES)
+### Week 1 (March 31-April 6)
 
 #### Assignments 
 
@@ -128,7 +128,7 @@ Time & Room TBA
 - Draft Learning Goals & Plan
 - Time Log
 
-### Week 2 (DATES)
+### Week 2 (April 7-13)
 
 #### Assignments 
 
@@ -136,7 +136,7 @@ Time & Room TBA
 - Week 2 Report
 - Time Log
 
-### Week 3 (DATES)
+### Week 3 (April 14-20)
 
 #### Meeting 
 
@@ -147,14 +147,14 @@ Individual conference with faculty supervisor (as previously scheduled) by telep
 - Week 3 Report
 - Time Log
 
-### Week 4 (DATES)
+### Week 4 (April 21-27)
 
 #### Assignments  
 
 - Week 4 Report
 - Time Log
 
-### Week 5 (DATES)
+### Week 5 (April 28-May 4)
 
 #### Meeting 
 
@@ -168,7 +168,7 @@ Practice group meeting (date & time TBA)
 - Site Supervisor's Midterm Evaluation
 - Time Log
 
-### Week 6 (DATES)
+### Week 6 (May 5-11)
 
 #### Meeting 
 
@@ -179,7 +179,7 @@ Conference with site supervisor and faculty supervisor (date and time as schedul
 - Week 6 Report
 - Time Log    
 
-### Week 7 (DATES)
+### Week 7 (May 12-18)
 
 #### Assignments  
 
@@ -188,7 +188,7 @@ Conference with site supervisor and faculty supervisor (date and time as schedul
 - Week 7 Report
 - Time Log
 
-### Week 8 (DATES)
+### Week 8 (May 19-25)
 
 #### Meeting 
 
@@ -199,7 +199,7 @@ Individual conference with faculty supervisor (as scheduled above) by telephone 
 - Week 8 Report
 - Time Log
       
-### Week 9 (DATES)
+### Week 9 (May 26-June 1)
 
 #### Meeting 
 
@@ -211,18 +211,18 @@ Practice group meeting (date and time TBA) by Zoom ([elon.zoom.us/my/emfink](htt
 - Week 9 Report
 - Time Log
 
-### Week 10 (DATES)
+### Week 10 (June 2-8)
 
 #### Assignments 
 
 - Week 10 Report
 - Time Log
 
-### Final Assignments (DATES)
+### Final Assignments (June 9-15)
 
 - Time Log (if applicable)
 - Thank-you note to site supervisor
 - Site Supervisor's Final Evaluation
 - Student evaluation of residency placement
-- FInal Self-Evaluation
+- Final Self-Evaluation
 - Certificate of Completion
