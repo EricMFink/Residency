@@ -45,15 +45,26 @@ Each student will also identify individual goals and develop a plan for attainin
 
 To receive credit for the Residency, you must complete these course requirements:
 
-- Field placement hours
+- Field placement hours 
 - Assigned reading, reports, time logs, and forms (as specified in the Syllabus)
 - One hour of professional development
 - Individual conferences and group meetings with faculty supervisor
 - Midterm conference with site supervisor and faculty supervisor
 
+The following items count toward the required hours (315/credits; 360/8 credits): 
+
+ <strong>Activity</strong> | <strong>Hours</strong> | <strong>Frequency</strong> | <strong>Total</strong>
+---|---|--- | ---
+Orientation | 8.0 | 1 | 8.0
+Group Meetings | 1.5 | 2 | 3.0
+Individual Conferences | 0.5 | 2 | 1.5
+Preparation of Time Logs & Reports | 1.0 | weekly | 10.0
+Wellness Activity | 1.0 | weekly | 10.0
+Residency Placement | 28.1 (7 credits); 32.6 (8 credits) | weekly | 281.0 (7 credits); 326.0 (8 credits)
+
 If you complete the requisite number of hours early, you may request to end your field placement one week before the end of the term (but no earlier). Your site supervisor and faculty supervisor must both approve this request. 
 
-Report prompts, time log, and other required forms are posted on [Moodle](https://moodle.elon.edu/course/view.php?id=73196). All forms, weekly time logs, and reports should be submitted on Moodle by 11:59 pm on Friday of the week in which they are due (see _Schedule & Assignments_ below). If you encounter problems with Moodle, you may send the assignment to me by email and then submit it to Moodle when you are able.
+Report prompts, time log, and other required forms and materials are posted on [Moodle](https://moodle.elon.edu/course/view.php?id=73196). All forms, weekly time logs, and reports should be submitted on Moodle by 11:59 pm on Friday of the week in which they are due (see _Schedule & Assignments_ below). If you encounter problems with Moodle, you may send the assignment to me by email and then submit it to Moodle when you are able.
 
 If you are unable to meet a due date because of your site supervisor's schedule, you should notify me to receive an extension. Extensions will generally not be granted for other reasons absent compelling circumstances.
 
@@ -80,27 +91,38 @@ The Law School [honor code](https://www.elon.edu/e/law/student-experience/honor-
 
 ## Schedule & Assignments 
 
-### Orientation (DATE)
+### Orientation (31 March)
 
 #### Assignments
 
-All material is available on the [Residency Bootcamp Moodle page](https://moodle.elon.edu/course/view.php?id=73525). 
+All orientation material is available on the [Residency Bootcamp Moodle page](https://moodle.elon.edu/course/view.php?id=73525). 
+
+_To be completed before March 31_
 
 - NC Rules of Professional Conduct
 - Neil Hamilton, _Roadmap_
 - ABA Standards 302-303
 - Five Habits of Cross-Cultural Competence
-- Self-Evaluation of Effective Lawyering Skills
+
+_To be completed on March 31_
+
+- Survey of Placements
+- Modules 1-8 
+- Initial Self-Evaluation
+
+#### Professionalism in Practice Lunch 
+
+Time & Room TBA
 
 #### Practice Group Meeting 
 
-TIME AND LOCATION ([elon.zoom.us/my/emfink](https://elon.zoom.us/my/emfink))
+3:00 pm, Room TBA
 
 ### Week 1 (DATES)
 
 #### Assignments 
 
-- Report: Wellness in the legal profession 
+- Week 1 Report
 - Memorandum of Understanding
 - Confidentiality Agreement
 - Draft Learning Goals & Plan
@@ -111,7 +133,7 @@ TIME AND LOCATION ([elon.zoom.us/my/emfink](https://elon.zoom.us/my/emfink))
 #### Assignments 
 
 - Schedule individual conference with faculty supervisor for Week 3 ([calendly.com/emfink/](https://calendly.com/emfink/))
-- Final Learning Goals & Plan
+- Week 2 Report
 - Time Log
 
 ### Week 3 (DATES)
@@ -122,14 +144,14 @@ Individual conference with faculty supervisor (as previously scheduled) by telep
 
 #### Assignments 
 
-- Report: Organizational structure
+- Week 3 Report
 - Time Log
 
 ### Week 4 (DATES)
 
 #### Assignments  
 
-- Report: Supervision and feedback
+- Week 4 Report
 - Time Log
 
 ### Week 5 (DATES)
@@ -141,9 +163,9 @@ Practice group meeting (date & time TBA)
 #### Assignments 
 
 - Schedule conference with site supervisor and faculty supervisor for Week 6 ([calendly.com/emfink/](https://calendly.com/emfink/))
-- Report: Midterm reflection on work & goals
-- Self-Evaluation of Effective Lawyering Skills (Midterm)
-- Site Supervisor's Midterm Evaluation (give form to supervisor and submit to TWEN when completed)
+- Week 5 Report
+- Midterm Self-Evaluation
+- Site Supervisor's Midterm Evaluation
 - Time Log
 
 ### Week 6 (DATES)
@@ -154,7 +176,7 @@ Conference with site supervisor and faculty supervisor (date and time as schedul
 
 #### Assignments 
 
-- Report: Project analysis
+- Week 6 Report
 - Time Log    
 
 ### Week 7 (DATES)
@@ -163,7 +185,7 @@ Conference with site supervisor and faculty supervisor (date and time as schedul
 
 - Schedule individual conference with faculty supervisor for Week 8 ([calendly.com/emfink/](https://calendly.com/emfink/)) s
 - Attend 1-hour professional development activity (CLE program, one unit on Procertas, or other activity approved by faculty supervisor). See the NC Bar Association website ([ncbar.org](https://ncbar.org)) for CLE options (some are free for students).
-- Report: Professional development
+- Week 7 Report
 - Time Log
 
 ### Week 8 (DATES)
@@ -174,7 +196,7 @@ Individual conference with faculty supervisor (as scheduled above) by telephone 
 
 #### Assignments 
 
-- Report: Projects and assignments
+- Week 8 Report
 - Time Log
       
 ### Week 9 (DATES)
@@ -185,14 +207,15 @@ Practice group meeting (date and time TBA) by Zoom ([elon.zoom.us/my/emfink](htt
 
 #### Assignments 
 
-- Report: Learning milestones and benchmarks
-- Site Supervisor's Final Evaluation (give form to site supervisor and post to TWEN when completed)
+- Site Supervisor's Final Evaluation
+- Week 9 Report
 - Time Log
 
 ### Week 10 (DATES)
 
 #### Assignments 
 
+- Week 10 Report
 - Time Log
 
 ### Final Assignments (DATES)
@@ -201,5 +224,5 @@ Practice group meeting (date and time TBA) by Zoom ([elon.zoom.us/my/emfink](htt
 - Thank-you note to site supervisor
 - Site Supervisor's Final Evaluation
 - Student evaluation of residency placement
-- Self-Evaluation of Effective Lawyering Skills (Final)
+- FInal Self-Evaluation
 - Certificate of Completion
