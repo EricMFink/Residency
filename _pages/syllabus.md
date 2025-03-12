@@ -91,7 +91,9 @@ All material is available on the Residency Bootcamp Moodle page.
 - Five Habits of Cross-Cultural Competence
 - Self-Evaluation of Effective Lawyering Skills
 
-TIME: Practice group meeting with faculty supervisor ([elon.zoom.us/my/emfink](https://elon.zoom.us/my/emfink))
+#### Practice Group Meeting 
+
+TIME AND LOCATION ([elon.zoom.us/my/emfink](https://elon.zoom.us/my/emfink))
 
 ### Week 1 (DATES)
 
@@ -113,6 +115,8 @@ TIME: Practice group meeting with faculty supervisor ([elon.zoom.us/my/emfink](h
 
 ### Week 3 (DATES)
 
+#### Meeting 
+
 Individual conference with faculty supervisor (as previously scheduled) by telephone or Zoom
 
 #### Assignments 
@@ -129,7 +133,9 @@ Individual conference with faculty supervisor (as previously scheduled) by telep
 
 ### Week 5 (DATES)
 
-- Practice group meeting (date & time TBA)
+#### Meeting 
+
+Practice group meeting (date & time TBA)
 
 #### Assignments 
 
@@ -140,6 +146,8 @@ Individual conference with faculty supervisor (as previously scheduled) by telep
 - Time Log
 
 ### Week 6 (DATES)
+
+#### Meeting 
 
 Conference with site supervisor and faculty supervisor (date and time as scheduled), by telephone or Zoom
 
@@ -159,6 +167,8 @@ Conference with site supervisor and faculty supervisor (date and time as schedul
 
 ### Week 8 (DATES)
 
+#### Meeting 
+
 Individual conference with faculty supervisor (as scheduled above) by telephone or Zoom
 
 #### Assignments 
@@ -167,6 +177,8 @@ Individual conference with faculty supervisor (as scheduled above) by telephone 
 - Time Log
       
 ### Week 9 (DATES)
+
+#### Meeting 
 
 Practice group meeting (date and time TBA) by Zoom ([elon.zoom.us/my/emfink](https://elon.zoom.us/my/emfink))
 
