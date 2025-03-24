@@ -97,14 +97,14 @@ The Law School [honor code](https://www.elon.edu/e/law/student-experience/honor-
 
 All orientation material is available on the [Residency Bootcamp Moodle page](https://moodle.elon.edu/course/view.php?id=73525). 
 
-_To be completed before March 31_
+_Reading_
 
 - NC Rules of Professional Conduct
 - Neil Hamilton, _Roadmap_
 - ABA Standards 302-303
 - Five Habits of Cross-Cultural Competence
 
-_To be completed on March 31_
+_Items to be completed on March 31_
 
 - Survey of Placements
 - Modules 1-8 
@@ -112,11 +112,11 @@ _To be completed on March 31_
 
 #### Professionalism in Practice Lunch 
 
-Time & Room TBA
+12:00 pm, Room 105
 
 #### Practice Group Meeting 
 
-3:00 pm, Room TBA
+3:00 pm, Room 211
 
 ### Week 1 (March 31-April 6)
 
