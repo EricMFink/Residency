@@ -26,9 +26,9 @@ website:
       - icon: github
         menu:
           - text: Report an issue
-            href:  https://github.com/EricMFink/EmploymentLaw/issues/new
+            href:  https://github.com/EricMFink/Residency/issues/new
           - text: View source code
-            href:  https://github.com/EricMFink/EmploymentLaw
+            href:  https://github.com/EricMFink/Residency
     collapse-level: 1
     contents:
       - text: "Syllabus"
