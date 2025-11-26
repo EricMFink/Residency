@@ -1,0 +1,16 @@
+---
+title: Residency
+toc: false
+---
+
+::: {.home}
+
+## Prof. Fink
+
+## Elon Law School
+
+## Winter 2026
+
+![](img/cover.png)
+
+:::

@@ -1,0 +1,11 @@
+::: {.cover}
+
+## Employment Law {.unnumbered}
+
+### Elon Law School 
+
+### Winter 2026
+
+![](../img/cover.png)
+
+:::

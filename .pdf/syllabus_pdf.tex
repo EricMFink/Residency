@@ -1,0 +1,597 @@
+\documentclass[11pt,letterpaper,twoside]{article}
+\usepackage[hmarginratio=1:1,top=1in,bottom=.75in,left=1.5in,right=1.5in]{geometry}
+
+\usepackage{etoolbox}
+\usepackage[]{ccicons}
+\usepackage{fontawesome5}
+\usepackage{marginnote}
+\usepackage{sidenotes}
+
+\usepackage{needspace}
+\usepackage[defaultlines=3,all]{nowidow}
+\raggedbottom
+
+\usepackage{ragged2e}
+\setlength{\RaggedRightParindent}{0em}
+\RaggedRight
+
+\usepackage[singlespacing]{setspace}
+
+\usepackage[none]{hyphenat}
+
+\usepackage{parskip}
+\setlength{\parindent}{0em}
+\setlength{\parskip}{0.6em plus 0.2em minus 0.1em}
+\setlength{\emergencystretch}{3em}  % prevent overfull lines
+
+% ==========================
+% = Language & Date Format =
+% ==========================
+
+\usepackage[english]{babel}
+\usepackage{currfile}
+
+% ==================
+% = Colors & Fonts =
+% ==================
+
+\usepackage[table]{xcolor}
+\definecolor{OffBlack}{HTML}{191919}
+\definecolor{Maroon}{HTML}{800000}
+\definecolor{TarHeelBlue}{HTML}{4b9cd3}
+\definecolor{HopkinsBlue}{HTML}{002D72}
+\definecolor{RacingGreen}{HTML}{004225}
+
+\usepackage{fontspec}
+\setmainfont{Athelas}[Mapping=tex-text]
+\setsansfont{Adelle Sans}[Mapping=tex-text]
+\setmonofont[Scale=0.90]{LFT Etica Mono}
+
+% font style for margin notes
+%\renewcommand{\marginfont}{\color{RacingGreen}\sffamily\scriptsize}
+
+% smaller sizes for footnotes & captions
+%\renewcommand{\footnotesize}{\scriptsize}
+%\renewcommand{\captionsize}{\small\itshape}
+
+% =======================
+% = Headers and Footers = 
+% =======================
+
+\usepackage{fancyhdr}
+\pagestyle{fancy}
+\fancyfoot{}
+\fancyfoot[C]{}
+\fancyfoot[R]{\tiny\texttt{ Revised: \today}}
+\fancyfoot[L]{}
+\fancyhead[CE]{\textsc{Residency}}
+\fancyhead[CO]{\textsc{Elon University School of Law}}
+\fancyhead[LE]{\textsc{\thepage}}
+\fancyhead[LO]{\textsc{Winter 2026}}
+\fancyhead[RE]{\textsc{Prof. Fink}}
+\fancyhead[RO]{\textsc{\thepage}}
+
+% =========
+% = Lists =
+% =========
+
+\usepackage{enumitem}
+\setlistdepth{6}
+\setlist[itemize]{leftmargin={1.5em}}
+\providecommand{\tightlist}{%
+\setlength{\itemsep}{0em}\setlength{\parskip}{0em}\setlength{\itemindent}{0em}}
+
+% ============
+% = Headings =
+% ============
+
+\usepackage[compact]{titlesec}
+% \titlespacing*{<command>}{<left>}{<before-sep>}{<after-sep>}
+\titlespacing*{\section}{0em}{0em}{.5em}
+\titlespacing*{\subsection}{0em}{2em}{.5em}
+\titlespacing*{\subsubsection}{0em}{1.5em}{.5em}
+\titlespacing*{\paragraph}{0em}{1em}{0em}
+\titlespacing*{\subparagraph}{0em}{.2em}{0em}
+
+\setcounter{secnumdepth}{0}
+
+% H1
+\titleformat{\section}[block]
+  {\huge\sffamily\color{Maroon}}
+  {}
+  {0em}
+  {}
+
+% H2
+\titleformat{\subsection}[block]
+  {\needspace{9\baselineskip}\LARGE\sffamily\color{Maroon}}
+  {}
+  {0em}
+  {}
+% H3
+\titleformat{\subsubsection}[block]
+  {\needspace{6\baselineskip}\Large\rmfamily\bfseries}
+  {\thesubsection}
+  {0em}
+  {}
+% H4
+\titleformat{\paragraph}[block]
+  {\footnotesize\sffamily\large\rmfamily\bfseries}
+  {\thesubsubsection}
+  {0em}
+  {}
+% H5
+\titleformat{\subparagraph}[block]
+  {\footnotesize\rmfamily}
+  {}
+  {0em}
+  {}
+
+% ==========
+% = Quotes =
+% ==========
+
+\usepackage{csquotes}
+
+\AtBeginEnvironment{quote}{\footnotesize\itshape} 
+
+\renewenvironment{quote}{%
+   \list{}{%
+     \leftmargin2em   % this is the adjusting screw
+     \rightmargin\leftmargin\parsep .1em }
+   \item\relax
+}
+{\endlist}
+
+% ==========
+% = Tables =
+% ==========
+
+\usepackage{longtable,booktabs,array}
+%\setlength\heavyrulewidth{0pt}
+\usepackage{multirow}
+\usepackage{calc} % for calculating minipage widths
+% Correct order of tables after \paragraph or \subparagraph
+\makeatletter
+\patchcmd\longtable{\par}{\if@noskipsec\mbox{}\fi\par}{}{}
+\makeatother
+% Allow footnotes in longtable head/foot
+\IfFileExists{footnotehyper.sty}{\usepackage{footnotehyper}}{\usepackage{footnote}}
+\makesavenoteenv{longtable}
+% set table font size & space between rows
+\renewcommand{\arraystretch}{1.5}
+\AtBeginEnvironment{longtable}{\footnotesize}
+
+% =============
+% = Footnotes = 
+% =============
+
+\usepackage[hang,flushmargin]{footmisc} 
+
+%\renewcommand{\footnotesize}{\fontsize{9pt}{11pt}\selectfont} %use to change size of footnotes
+
+% ==============
+% = Hyperlinks =
+% ==============
+
+\usepackage[unicode=true]{hyperref}
+\hypersetup{%
+  colorlinks=true,
+  allcolors=HopkinsBlue,
+  breaklinks=true,
+  pdfusetitle=true,
+  pdfauthor={Eric M. Fink},
+  pdftitle={Syllabus},
+    pdfsubject={Residency},
+      pdfproducer=LateX via pandoc,
+  pdfcreator=LateX via pandoc
+}
+
+% ===============================
+% ===== BEGIN DOCUMENT ==========
+% ===============================
+
+\begin{document}\thispagestyle{empty}
+
+% Sets default font color without overriding hyperlink colors
+\color{OffBlack}
+
+% \maketitle
+
+\section{Residency}
+
+\begin{footnotesize}
+\subparagraph{Elon University School of Law}
+\subparagraph{Winter 2026}
+
+
+\subparagraph{\url{emfink.net/Residency}}
+\vspace{1em}
+
+
+\subparagraph{Eric M. Fink} 
+\subparagraph{efink@elon.edu}
+\subparagraph{336.279.9334} 
+\subparagraph{Office Hours: {\url{calendly.com/emfink/}}}
+
+\vspace{1em}
+
+\end{footnotesize}
+
+\vspace{1em}
+
+\needspace{1\baselineskip}
+
+\subsection*{Description}\label{description}
+\addcontentsline{toc}{subsection}{Description}
+
+\subsubsection{Overview}\label{overview}
+
+The Residency program includes both a field experience and a class
+component. The class component is an integral part of the work for which
+you earn academic credit. As your faculty supervisor, I will review your
+weekly assignments and meet with you periodically as a group and
+individually to discuss your field experience. I will also communicate
+with your site supervisor about your progress.
+
+During your residency, you are bound by the professional conduct rules
+and other standards governing lawyers in your jurisdiction and practice
+setting. You are expected to resolve any workplace problems with the
+attorney or others involved. If you cannot resolve the issue yourself,
+you should discuss it with me. If necessary, we will involve the
+Residency Program Director.
+
+\subsubsection{Learning Goals}\label{learning-goals}
+
+The Residency course is intended to advance these learning goals:
+
+\begin{itemize}
+\tightlist
+\item
+  Integrate substantive learning with practical experience, assimilate
+  knowledge from the study of law to the practice of law, apply legal
+  doctrines learned in class to a practice setting, and bring knowledge
+  and skills developed in practice back to the classroom;
+\item
+  Deepen knowledge of the legal profession and lawyers' professional
+  responsibilities and enhance professional development;
+\item
+  Increase ability to learn from experience, through feedback from
+  attorneys, self-evaluation, and reflection on practice experience
+  under faculty guidance.
+\end{itemize}
+
+Each student will also identify individual goals and develop a plan for
+attaining these goals in the residency.
+
+\subsection*{Policies}\label{policies}
+\addcontentsline{toc}{subsection}{Policies}
+
+\subsubsection{Requirements}\label{requirements}
+
+To receive credit for the Residency, you must complete these course
+requirements:
+
+\begin{itemize}
+\tightlist
+\item
+  Field placement hours
+\item
+  Assigned reading, reports, time logs, and forms (as specified in the
+  Syllabus)
+\item
+  One hour of professional development
+\item
+  Individual conferences and group meetings with faculty supervisor
+\item
+  Midterm conference with site supervisor and faculty supervisor
+\end{itemize}
+
+The following items count toward the required hours (315/7 credits;
+360/8 credits):
+
+\begin{longtable}[]{@{}
+  >{\raggedright\arraybackslash}p{(\linewidth - 6\tabcolsep) * \real{0.2500}}
+  >{\raggedright\arraybackslash}p{(\linewidth - 6\tabcolsep) * \real{0.2500}}
+  >{\raggedright\arraybackslash}p{(\linewidth - 6\tabcolsep) * \real{0.2500}}
+  >{\raggedright\arraybackslash}p{(\linewidth - 6\tabcolsep) * \real{0.2500}}@{}}
+\toprule\noalign{}
+\begin{minipage}[b]{\linewidth}\raggedright
+Activity
+\end{minipage} & \begin{minipage}[b]{\linewidth}\raggedright
+Hours
+\end{minipage} & \begin{minipage}[b]{\linewidth}\raggedright
+Frequency
+\end{minipage} & \begin{minipage}[b]{\linewidth}\raggedright
+Total
+\end{minipage} \\
+\midrule\noalign{}
+\endhead
+\bottomrule\noalign{}
+\endlastfoot
+Orientation & 8.0 & 1x & 8.0 \\
+Group Meetings & 1.5 & 2x & 3.0 \\
+Individual Conferences & 0.5 & 2x & 1.5 \\
+Preparation of Time Logs \& Reports & 1.0 & weekly & 10.0 \\
+Wellness Activity & 1.0 & weekly & 10.0 \\
+Residency Placement & 28.1 (7 credits); 32.6 (8 credits) & weekly &
+281.0 (7 credits); 326.0 (8 credits) \\
+\end{longtable}
+
+If you complete the requisite number of hours early, you may request to
+end your field placement one week before the end of the term (but no
+earlier). Your site supervisor and faculty supervisor must both approve
+this request.
+
+\href{materials/ReportPrompts.pdf}{Report prompts}, time log, and other
+required forms and materials are posted on
+\href{https://moodle.elon.edu/course/view.php?id=79008}{Moodle}. Weekly
+time logs and reports should be submitted on Moodle by 11:59 pm on
+Sunday (see \emph{Schedule \& Assignments} below). If you encounter
+problems with Moodle, you may send the assignment to me by email and
+then submit it to Moodle when you are able.
+
+If you are unable to meet a due date because of your site supervisor's
+schedule, you should notify me to receive an extension. Extensions will
+generally not be granted for other reasons absent compelling
+circumstances.
+
+Unless specifically authorized by the faculty or site supervisor, you
+may not use generative AI services in any work required for this course.
+
+\subsubsection{Grading}\label{grading}
+
+The course will be graded on a pass/fail basis, based on these
+standards:
+
+\begin{itemize}
+\tightlist
+\item
+  Completion of required field placement hours;
+\item
+  Attendance \& participation in group meetings and individual
+  conferences;
+\item
+  Timely submission of all forms, reports, and time logs; and
+\item
+  Professionalism in dealing with your field supervisor, faculty
+  supervisor, clients, and others during the residency.
+\end{itemize}
+
+Exemplary performance in your field placement, assignments, and group
+meetings may earn a High Pass. Failure to meet these standards may
+result in a Low Pass or a failing grade.
+
+\subsubsection{Disability
+Accommodations}\label{disability-accommodations}
+
+For disability accommodation requests, contact the
+\href{https://www.elon.edu/u/law/students/student-resources/academic-accommodations-accessibility/}{Elon
+Academic Accommodations Office}.
+
+\subsubsection{Honor Code}\label{honor-code}
+
+The Law School
+\href{https://www.elon.edu/e/law/student-experience/honor-code.html}{honor
+code} applies to all activities related to your law school study,
+including conduct during class and examinations.
+
+\subsection*{Schedule \& Assignments}\label{schedule-assignments}
+\addcontentsline{toc}{subsection}{Schedule \& Assignments}
+
+\subsubsection{Orientation (January 5)}\label{orientation-january-5}
+
+\paragraph{Assignments}\label{assignments}
+
+\begin{itemize}
+\tightlist
+\item
+  \href{materials/NCRPC.pdf}{NC Rules of Professional Conduct}
+\item
+  Neil Hamilton, \href{materials/HamiltonRoadmap.pdf}{\emph{Roadmap}}
+\item
+  \href{materials/ABAstandards.pdf}{ABA Standards 302-303}
+\item
+  Jacob Doe v. University of North Carolina System, 1:23-cv-00041
+  \href{materials/DoeUNC-Order-10Nov2025.pdf}{(Order to Show Cause)}
+  (W.D.N.C. Nov.~10, 2025)
+\item
+  \href{materials/LeadershipSkillsForAttorneySuccess.pdf}{Leadership
+  Skills for Attorney Success}
+\item
+  Initial Self-Evaluation of Lawyering Skills (\emph{Available on
+  \href{https://moodle.elon.edu/course/view.php?id=79148}{Moodle}})
+\end{itemize}
+
+\paragraph{Practice Group Meeting}\label{practice-group-meeting}
+
+3:00 pm, Room 211
+
+\subsubsection{Week 1 (January 5-11)}\label{week-1-january-5-11}
+
+\paragraph{Assignments}\label{assignments-1}
+
+\begin{itemize}
+\tightlist
+\item
+  Week 1 Report (Wellness)
+\item
+  Memorandum of Understanding
+\item
+  Confidentiality Agreement
+\item
+  Draft Goal Statement
+\item
+  Time Log
+\end{itemize}
+
+\subsubsection{Week 2 (January 12-18)}\label{week-2-january-12-18}
+
+\paragraph{Assignments}\label{assignments-2}
+
+\begin{itemize}
+\tightlist
+\item
+  Week 2 Report (Audio Recording)
+\item
+  Time Log
+\item
+  Final Goal Statement
+\item
+  Schedule individual conference with faculty supervisor for Week 3
+  (\href{https://calendly.com/emfink/}{calendly.com/emfink/})
+\end{itemize}
+
+\subsubsection{Week 3 (January 19-25)}\label{week-3-january-19-25}
+
+\paragraph{Meeting}\label{meeting}
+
+Individual conference with faculty supervisor (as previously scheduled)
+by telephone or Zoom
+
+\paragraph{Assignments}\label{assignments-3}
+
+\begin{itemize}
+\tightlist
+\item
+  Week 3 Report (Organizational Structure)
+\item
+  Time Log
+\end{itemize}
+
+\subsubsection{Week 4 (January 26-February
+1)}\label{week-4-january-26-february-1}
+
+\paragraph{Assignments}\label{assignments-4}
+
+\begin{itemize}
+\tightlist
+\item
+  Week 4 Report (Supervision and Feedback)
+\item
+  Time Log
+\end{itemize}
+
+\subsubsection{Week 5 (February 2-8)}\label{week-5-february-2-8}
+
+\paragraph{Meeting}\label{meeting-1}
+
+Practice group meeting (date \& time TBA)
+
+\paragraph{Assignments}\label{assignments-5}
+
+\begin{itemize}
+\tightlist
+\item
+  Week 5 Report (Residency Experience)
+\item
+  Midterm Self-Evaluation of Lawyering Skills
+\item
+  Site Supervisor's Midterm Evaluation
+\item
+  Time Log
+
+  \begin{itemize}
+  \tightlist
+  \item
+    Schedule conference with site supervisor and faculty supervisor for
+    Week 6 (\href{https://calendly.com/emfink/}{calendly.com/emfink/})
+  \end{itemize}
+\end{itemize}
+
+\subsubsection{Week 6 (February 9-15)}\label{week-6-february-9-15}
+
+\paragraph{Meeting}\label{meeting-2}
+
+Conference with site supervisor and faculty supervisor (date and time as
+scheduled), by telephone or Zoom
+
+\paragraph{Assignments}\label{assignments-6}
+
+\begin{itemize}
+\tightlist
+\item
+  Week 6 Report (Project Analysis)
+\item
+  Time Log
+\end{itemize}
+
+\subsubsection{Week 7 (February 16-22)}\label{week-7-february-16-22}
+
+\paragraph{Assignments}\label{assignments-7}
+
+\begin{itemize}
+\tightlist
+\item
+  Week 7 Report (Cultural Competence \& Leadership)
+\item
+  Time Log
+\item
+  Professional development activity (CLE program or other activity
+  approved by faculty supervisor). See the NC Bar Association website
+  (\href{https://ncbar.org}{ncbar.org}) for CLE options.
+\item
+  Schedule individual conference with faculty supervisor for Week 8
+  (\href{https://calendly.com/emfink/}{calendly.com/emfink/})
+\end{itemize}
+
+\subsubsection{Week 8 (February 23-March
+1)}\label{week-8-february-23-march-1}
+
+\paragraph{Meeting}\label{meeting-3}
+
+Individual conference with faculty supervisor (as scheduled above) by
+telephone or Zoom
+
+\paragraph{Assignments}\label{assignments-8}
+
+\begin{itemize}
+\tightlist
+\item
+  Week 8 Report (Projects and Assignments)
+\item
+  Time Log
+\end{itemize}
+
+\subsubsection{Week 9 (March 2-8)}\label{week-9-march-2-8}
+
+\paragraph{Meeting}\label{meeting-4}
+
+Practice group meeting (date and time TBA) by Zoom
+(\href{https://elon.zoom.us/my/emfink}{elon.zoom.us/my/emfink})
+
+\paragraph{Assignments}\label{assignments-9}
+
+\begin{itemize}
+\tightlist
+\item
+  Week 9 Report (Learning Milestones)
+\item
+  Time Log
+\item
+  Site Supervisor's Final Evaluation
+\end{itemize}
+
+\subsubsection{Week 10 (March 9-15)}\label{week-10-march-9-15}
+
+\paragraph{Assignments}\label{assignments-10}
+
+\begin{itemize}
+\tightlist
+\item
+  Week 10 Report (Residency Summary)
+\item
+  Time Log
+\item
+  Student Evaluation of Placement
+\item
+  Final Self-Evaluation of Lawyering Skills
+\item
+  Site Supervisor's Final Evaluation
+\item
+  Certificate of Completion
+\item
+  Thank you note to site supervisor
+\end{itemize}
+
+\end{document}

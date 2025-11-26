@@ -1,0 +1,24 @@
+{
+  "syllabus.qmd": {
+    "syllabus.html": "7921cc2c",
+    "syllabus.tex": "2a50f272"
+  },
+  "index.qmd": {
+    "index.html": "5ff05652"
+  },
+  "about.qmd": {
+    "about.html": "e3884821"
+  },
+  "cover.qmd": {
+    "cover.html": "b827bd3e"
+  },
+  "404.qmd": {
+    "404.html": "3bf19604"
+  },
+  "reports.md": {
+    "reports.html": "932c707a"
+  },
+  "reports.qmd": {
+    "reports.html": "7000930a"
+  }
+}
