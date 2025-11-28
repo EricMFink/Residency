@@ -19,7 +19,6 @@ term: 'Winter 2026'
 format:
   pdf:
     template: syllabus_template.tex
-    keep-tex: true
     output-file: ResidencySyllabus
 
 ---
