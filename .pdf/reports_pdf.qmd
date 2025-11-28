@@ -1,14 +1,14 @@
-﻿---
-title: Residency
+---
+title: Residency in Practice
 subtitle: Weekly Reports
-author: Eric M. Fink
+author: "Prof. Fink"
 affiliation: Elon University School of Law
-date: 'Winter 2026'
+term: Winter 2026
 
 format:
   pdf:
-    template: emf_generic.tex
-    output-file: WeeklyReports
+    template: emf_default.tex
+    output-file: ResidencyReports
 
 ---
 
@@ -37,14 +37,13 @@ You should include one-hour for your wellness activity in your time log each wee
 
 Identify your learning goals (4-6) for the Residency and your plans for meeting them (using the template on Moodle). Post your draft Learning Goals and Plan on Moodle. After review the draft with your Site Supervisor and incorporating any suggestions or revisions, post your final Learning Goals and Plans on Moodle. 
 
-
 _Examples of Goals: _
 
 1. Enhance knowledge of law in area of placement;
 2. Improve research and writing; 
 3. Develop legal practice skills (e.g. client interviewing, case management, oral advocacy, etc.)
 
-## Week 2 
+## Week 2
 
 ### Reflection on work assignment
 

@@ -3,7 +3,7 @@ version: 4.1
 subject: Residency
 repo-name: emfink.net/Residency
 repo-url: "https://emfink.net/Residency"
-syllabus-download: ResidencySyllabus.pdf
+syllabus-download: .pdf/ResidencySyllabus.pdf
 
 author: Eric M. Fink
 email: efink@elon.edu

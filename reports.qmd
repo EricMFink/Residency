@@ -2,6 +2,8 @@
 title: Weekly Reports
 ---
 
+[{{< bi download >}}](.pdf/ResidencyReports.pdf "Download Syllabus")
+
 ## General Guidelines
 
 Use this format for all written reports: 
@@ -34,7 +36,7 @@ _Examples of Goals: _
 2. Improve research and writing; 
 3. Develop legal practice skills (e.g. client interviewing, case management, oral advocacy, etc.)
 
-## Week 2 
+## Week 2
 
 ### Reflection on work assignment
 
