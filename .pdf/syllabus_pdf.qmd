@@ -1,24 +1,22 @@
 ---
 title: Syllabus
-professor: "Eric M. Fink"
 revised: 2025-11-26T14:31:49-05:00
 
 subject: Residency
+term: 'Winter 2026'
 repo-url: 'emfink.net/Residency'
+syllabus: true
 
 author: Eric M. Fink
 phone: 336-279-9334
 appointments-url: 'calendly.com/emfink/'
-
 institution: Elon University School of Law
 address: 201 North Greene Street
 city-state: Greensboro, North Carolina
 
-term: 'Winter 2026'
-
 format:
   pdf:
-    template: syllabus_template.tex
+    template: master.tex
     output-file: ResidencySyllabus
 
 ---

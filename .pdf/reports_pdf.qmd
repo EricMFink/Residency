@@ -7,7 +7,7 @@ term: Winter 2026
 
 format:
   pdf:
-    template: emf_default.tex
+    template: master.tex
     output-file: ResidencyReports
 
 ---

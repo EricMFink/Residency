@@ -50,28 +50,11 @@
     ]
   },
   {
-    "objectID": "about.html",
-    "href": "about.html",
-    "title": "About",
-    "section": "",
-    "text": "About this site"
-  },
-  {
-    "objectID": "reports.html",
-    "href": "reports.html",
-    "title": "Weekly Reports",
-    "section": "",
-    "text": "Use this format for all written reports:\n\nHeading:\n\nName\nWeek Number\nTitle\n\nContent:\n\nResponse to prompt\n\nLength:\n\n2-4 pages (double-spaced)",
-    "crumbs": [
-      "Weekly Reports"
-    ]
-  },
-  {
     "objectID": "reports.html#general-guidelines",
     "href": "reports.html#general-guidelines",
     "title": "Weekly Reports",
-    "section": "",
-    "text": "Use this format for all written reports:\n\nHeading:\n\nName\nWeek Number\nTitle\n\nContent:\n\nResponse to prompt\n\nLength:\n\n2-4 pages (double-spaced)",
+    "section": "General Guidelines",
+    "text": "General Guidelines\nUse this format for all written reports:\n\nHeading:\n\nName\nWeek Number\nTitle\n\nContent:\n\nResponse to prompt\n\nLength:\n\n2-4 pages (double-spaced)",
     "crumbs": [
       "Weekly Reports"
     ]
