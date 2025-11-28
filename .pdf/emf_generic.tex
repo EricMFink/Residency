@@ -1,5 +1,5 @@
-%%% emf-default.tex
-%%% Default Pandoc template 
+%%% emf_generic.tex
+%%% Pandoc template 
 %%% Created by Eric M. Fink (https://github.com/EricMFink)
 
 % ====================
@@ -252,42 +252,6 @@ $endif$
 
 % $if(notesymbols)$\renewcommand{\thefootnote}{\fnsymbol{footnote}}$endif$
 
-% ===================
-% = Pandoc citeproc =
-% ===================
-
-$if(csl-refs)$
-\NewDocumentCommand\citeproctext{}{}
-\NewDocumentCommand\citeproc{mm}{%
-\begingroup\def\citeproctext{#2}\cite{#1}\endgroup}
-\makeatletter
-\let\@cite@ofmt\@firstofone
-% avoid brackets around text for \cite:
-\def\@biblabel#1{}
-\def\@cite#1#2{{#1\if@tempswa , #2\fi}}
-\makeatother
-\newlength{\cslhangindent}
-\setlength{\cslhangindent}{1.5em}
-\newlength{\csllabelwidth}
-\setlength{\csllabelwidth}{3em}
-\newenvironment{CSLReferences}[2] % #1 hanging-indent, #2 entry-spacing
-{\begin{list}{}{%
-	\setlength{\itemindent}{0pt}
-	\setlength{\leftmargin}{0pt}
-	\setlength{\parsep}{0pt}
-	\ifodd #1
-	\setlength{\leftmargin}{\cslhangindent}
-	\setlength{\itemindent}{-1\cslhangindent}
-	\fi
-	\setlength{\itemsep}{#2\baselineskip}}}
-{\end{list}}
-\usepackage{calc}
-\newcommand{\CSLBlock}[1]{\hfill\break\parbox[t]{\linewidth}{\strut\ignorespaces#1\strut}}
-\newcommand{\CSLLeftMargin}[1]{\parbox[t]{\csllabelwidth}{\strut#1\strut}}
-\newcommand{\CSLRightInline}[1]{\parbox[t]{\linewidth - \csllabelwidth}{\strut#1\strut}}
-\newcommand{\CSLIndent}[1]{\hspace{\cslhangindent}#1}
-$endif$
-
 % ==============
 % = Hyperlinks =
 % ==============
@@ -318,29 +282,38 @@ $if(full-title)$
 \maketitle
 
 $else$
+
 \thispagestyle{empty}
 \begin{flushleft}
+
 $if(subject)$
 \sffamily{$subject$} \\
 $endif$
+
 $if(author)$
 \sffamily{$author$} \\
 $endif$
+
 $if(affiliation)$
 \sffamily{$affiliation$}  \\
 $endif$
+
 $if(date)$
-\sffamily`{$date$} \\
+\sffamily{$date$} \\
 $endif$
+
 $if(title)$
 \vspace{5mm}
 \section{$title$} \\
 $endif$
+
 $if(subtitle)$
 \vspace{.5cm}
 \subsection{$subtitle$} 
 $endif$
+
 \end{flushleft}
+
 $endif$
 
 $if(columns)$

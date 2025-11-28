@@ -7,7 +7,7 @@ date: 'Winter 2026'
 
 format:
   pdf:
-    template: default_emf.tex
+    template: emf_generic.tex
     output-file: WeeklyReports
 
 ---
