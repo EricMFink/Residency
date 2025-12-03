@@ -76,7 +76,7 @@ If you are unable to meet a due date because of your site supervisor's schedule,
 
 Unless specifically authorized by the faculty or site supervisor, you may not use generative AI in any work required for this course. Among the many reasons to avoid artificial intelligence,[^1] the most compelling is that it demeans your own intelligence.
 
-[^1]: It is an unreliable tool for legal research, as attorneys continue to learn the hard way. See, e.g., [Mezu v. Mezu], 2025 WL 3022460 (Md. App. Oct. 29, 2025) (referring attorney to state bar disciplinary authority for filing brief with citations to multiple non-existent cases based on ChatGPT) [_Noland v. Land of the Free, L.P._](https://www4.courts.ca.gov/opinions/documents/B331918.PDF), 114 Cal.App.5th 426 (2025)(upholding sanctions against attorney for filing briefs with numerous fabricated case quotations created by ChatGPT, Claude, Gemini, and Grok); [_Garner v. Kadince_](https://websitedc.s3.amazonaws.com/documents/Garner_v._Kadince_UT_AC_USA_2025.pdf), 571 P.3d 812 (Utah App. 2025) (imposing sanctions against attorney for filing brief with citations to non-existent cases created by ChatGPT). It consumes "a staggering amount of electricity" and water, imposing significant social and environmental costs. Adam Zewe, [Generative AI’s environmental impact](https://news.mit.edu/2025/explained-generative-ai-environmental-impact-0117), MIT News (Jan. 17, 2025); UN Environment Program, [AI has an environmental problem. Here’s what the world can do about that](https://www.unep.org/news-and-stories/story/ai-has-environmental-problem-heres-what-world-can-do-about) (Nov. 13, 2025). It makes you stupid. Nataliya Kosmyna, et al, [Your Brain on ChatGPT: Accumulation of Cognitive Debt when Using an AI Assistant for Essay Writing Task](https://www.media.mit.edu/publications/your-brain-on-chatgpt/), MIT Media Lab (2025). 
+[^1]: It is an unreliable tool for legal research, as attorneys continue to learn the hard way. See, e.g., [_Mezu v. Mezu_](https://scholar.google.com/scholar_case?case=3342777015070657049), 2025 WL 3022460 (Md. App. Oct. 29, 2025) (referring attorney to state bar disciplinary authority for filing brief with citations to multiple non-existent cases based on ChatGPT) [_Noland v. Land of the Free, L.P._](https://scholar.google.com/scholar_case?case=6289402711499355924), 114 Cal.App.5th 426 (2025) (upholding sanctions against attorney for filing briefs with numerous fabricated case quotations created by ChatGPT, Claude, Gemini, and Grok); [_Garner v. Kadince_](https://scholar.google.com/scholar_case?case=5585812690204924508), 571 P.3d 812 (Utah App. 2025) (imposing sanctions against attorney for filing brief with citations to non-existent cases created by ChatGPT). It consumes "a staggering amount of electricity" and water, imposing significant social and environmental costs. Adam Zewe, [Generative AI’s environmental impact](https://news.mit.edu/2025/explained-generative-ai-environmental-impact-0117), MIT News (Jan. 17, 2025); UN Environment Program, [AI has an environmental problem. Here’s what the world can do about that](https://www.unep.org/news-and-stories/story/ai-has-environmental-problem-heres-what-world-can-do-about) (Nov. 13, 2025). It makes you stupid. Nataliya Kosmyna, et al, [Your Brain on ChatGPT: Accumulation of Cognitive Debt when Using an AI Assistant for Essay Writing Task](https://www.media.mit.edu/publications/your-brain-on-chatgpt/), MIT Media Lab (2025). 
 
 ### Grading 
 
@@ -160,10 +160,10 @@ Practice group meeting (date & time TBA)
 #### Assignments 
 
 - Week 5 Report (Residency Experience)
+- Time Log
 - Midterm Self-Evaluation of Lawyering Skills
 - Site Supervisor's Midterm Evaluation
-- Time Log
-  - Schedule conference with site supervisor and faculty supervisor for Week 6 ([calendly.com/emfink/](https://calendly.com/emfink/))
+- Schedule conference with site supervisor and faculty supervisor for Week 6 ([calendly.com/emfink/](https://calendly.com/emfink/))
 
 ### Week 6 (February 9-15)
 

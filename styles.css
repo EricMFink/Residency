@@ -395,6 +395,22 @@ img {
 	margin: 0.2rem 0 0rem 0;
 }
 
+
+/* Footnotes in Syllabus */
+#quarto-appendix p {
+	background-color: #fffaf0;
+	font-size: .8rem
+}
+#quarto-appendix.default {
+	background-color: #fffaf0;
+	padding-top: 0rem;
+	margin-top: 2rem;
+	border: none;
+}
+#quarto-appendix.default [role="doc-endnotes"] > ol {
+	font-size: .8em;
+}
+
 /* Casebook Cover */
 .cover {
 	margin: 4rem auto 0 auto;

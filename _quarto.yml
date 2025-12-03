@@ -52,6 +52,8 @@ format:
       - cosmo
       - brand
     css: styles.css
+    reference-location: margin
+    citation-location: document
     toc: true
     toc-location: left
     toc-depth: 3
