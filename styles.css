@@ -396,7 +396,7 @@ img {
 }
 
 
-/* Footnotes in Syllabus */
+/* 
 #quarto-appendix p {
 	background-color: #fffaf0;
 	font-size: .8rem
@@ -410,6 +410,7 @@ img {
 #quarto-appendix.default [role="doc-endnotes"] > ol {
 	font-size: .8em;
 }
+*/
 
 /* Casebook Cover */
 .cover {
