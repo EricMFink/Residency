@@ -22,7 +22,7 @@ website:
       - icon: file-pdf
         menu: 
           - text: "Syllabus PDF"
-            href: ResidencySyllabus.pdf
+            href: .pdf/ResidencySyllabus.pdf
       - icon: github
         menu:
           - text: Report an issue
